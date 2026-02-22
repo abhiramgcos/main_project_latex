@@ -1,0 +1,119 @@
+\contentsline {chapter}{Acknowledgements}{ii}{chapter*.3}%
+\contentsline {chapter}{List of Figures}{vii}{chapter*.3}%
+\contentsline {chapter}{List of Tables}{viii}{chapter*.3}%
+\contentsline {chapter}{\numberline {1}INTRODUCTION}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Existing System}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Firmware Analysis Tools}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Network Scanning Solutions}{2}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Malware Detection Approaches}{2}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}Fragmentation Problems}{3}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}Problem Statement}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Objectives}{4}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Primary Objectives}{4}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Secondary Objectives}{5}{subsection.1.4.2}%
+\contentsline {section}{\numberline {1.5}Scope}{5}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}In-Scope Capabilities}{5}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}Out-of-Scope Limitations}{6}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Target Users and Deployments}{6}{subsection.1.5.3}%
+\contentsline {chapter}{\numberline {2}LITERATURE REVIEW}{8}{chapter.2}%
+\contentsline {section}{\numberline {2.1}IoT Firmware Analysis and Emulation}{8}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Network Scanning and Device Discovery}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Machine Learning for Malware Detection}{9}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Integrated Security Frameworks}{10}{section.2.4}%
+\contentsline {chapter}{\numberline {3}SYSTEM ANALYSIS}{12}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Functional Requirements}{12}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Firmware Image Processing (FR-1)}{12}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Automated Firmware Emulation (FR-2)}{12}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Vulnerability Analysis Testing (FR-3)}{13}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}Network Device Discovery (FR-4)}{13}{subsection.3.1.4}%
+\contentsline {subsection}{\numberline {3.1.5}Device Identification (FR-5)}{13}{subsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.1.6}Traffic Capture and Preprocessing (FR-6)}{14}{subsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.1.7}Malware Classification (FR-7)}{14}{subsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.1.8}Model Training (FR-8)}{14}{subsection.3.1.8}%
+\contentsline {subsection}{\numberline {3.1.9}Integrated Dashboard (FR-9)}{15}{subsection.3.1.9}%
+\contentsline {subsection}{\numberline {3.1.10}Alert Generation (FR-10)}{15}{subsection.3.1.10}%
+\contentsline {section}{\numberline {3.2}Non-Functional Requirements}{15}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Performance and Scalability (NFR-1)}{15}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Reliability and Fault Tolerance (NFR-2)}{16}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Usability and Accessibility (NFR-3)}{16}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Security and Privacy (NFR-4)}{16}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Maintainability and Extensibility (NFR-5)}{17}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Portability and Deployment (NFR-6)}{17}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.7}Documentation and Training (NFR-7)}{17}{subsection.3.2.7}%
+\contentsline {section}{\numberline {3.3}Feasibility Analysis}{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Technical Feasibility}{18}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Operational Feasibility}{19}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Economic Feasibility}{19}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Hardware Requirements}{20}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Development Environment Specifications}{20}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Production Deployment Hardware}{21}{subsection.3.4.2}%
+\contentsline {section}{\numberline {3.5}Software Requirements}{22}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Core System Software}{22}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Firmware Emulation Software}{22}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Network Scanner Software}{22}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Malware Classifier Software}{23}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}System Integration Software}{23}{subsection.3.5.5}%
+\contentsline {section}{\numberline {3.6}Life Cycle Used}{24}{section.3.6}%
+\contentsline {subsection}{\numberline {3.6.1}Incremental Software Development Model}{24}{subsection.3.6.1}%
+\contentsline {subsection}{\numberline {3.6.2}Machine Learning Development Lifecycle}{24}{subsection.3.6.2}%
+\contentsline {subsection}{\numberline {3.6.3}Project Increments Schedule}{24}{subsection.3.6.3}%
+\contentsline {section}{\numberline {3.7}Software Cost Estimation}{25}{section.3.7}%
+\contentsline {subsection}{\numberline {3.7.1}COCOMO Model Application}{25}{subsection.3.7.1}%
+\contentsline {subsection}{\numberline {3.7.2}Code Size and Cost Calculation}{25}{subsection.3.7.2}%
+\contentsline {section}{\numberline {3.8}Hardware Cost Estimation}{26}{section.3.8}%
+\contentsline {section}{\numberline {3.9}Total Product Cost Estimation}{26}{section.3.9}%
+\contentsline {subsection}{\numberline {3.9.1}Academic and Commercial Context Costs}{26}{subsection.3.9.1}%
+\contentsline {subsection}{\numberline {3.9.2}Cost-Benefit Analysis}{26}{subsection.3.9.2}%
+\contentsline {subsection}{\numberline {3.9.3}Comparison to Commercial Alternatives}{27}{subsection.3.9.3}%
+\contentsline {section}{\numberline {3.10}Project Scheduling using Gantt Chart}{27}{section.3.10}%
+\contentsline {subsection}{\numberline {3.10.1}Phase Timeline Overview}{27}{subsection.3.10.1}%
+\contentsline {subsection}{\numberline {3.10.2}Critical Path and Milestones}{28}{subsection.3.10.2}%
+\contentsline {subsection}{\numberline {3.10.3}Risk Management Strategy}{28}{subsection.3.10.3}%
+\contentsline {chapter}{\numberline {4}METHODOLOGY}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Proposed System}{29}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}System Architecture Overview}{29}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Firmware Emulation Subsystem Design}{29}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Network Scanning Subsystem Design}{30}{subsection.4.1.3}%
+\contentsline {subsection}{\numberline {4.1.4}Malware Classification Subsystem Design}{30}{subsection.4.1.4}%
+\contentsline {subsection}{\numberline {4.1.5}System Integration Architecture}{31}{subsection.4.1.5}%
+\contentsline {section}{\numberline {4.2}Advantages of Proposed System}{31}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Comprehensive Security Coverage}{31}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Automation and Scalability}{32}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Advanced AI Capabilities}{32}{subsection.4.2.3}%
+\contentsline {subsection}{\numberline {4.2.4}Cost-Effectiveness}{33}{subsection.4.2.4}%
+\contentsline {subsection}{\numberline {4.2.5}Flexibility and Extensibility}{33}{subsection.4.2.5}%
+\contentsline {section}{\numberline {4.3}System Components and Integration}{34}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}Firmware Emulation Implementation}{34}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Network Scanner Implementation}{34}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Malware Classifier Implementation}{35}{subsection.4.3.3}%
+\contentsline {subsection}{\numberline {4.3.4}System Integration Implementation}{35}{subsection.4.3.4}%
+\contentsline {chapter}{\numberline {5}SYSTEM IMPLEMENTATION}{36}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{36}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Overall System Implementation Architecture}{36}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Firmware Acquisition and Processing Module}{37}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Firmware Emulation Implementation}{37}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Vulnerability Analysis Engine Implementation}{37}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Network Scanning and Device Discovery Module}{38}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Device Identification and Fingerprinting}{38}{section.5.7}%
+\contentsline {section}{\numberline {5.8}Malware Detection and AI Model Implementation}{38}{section.5.8}%
+\contentsline {section}{\numberline {5.9}System Integration and Data Correlation}{38}{section.5.9}%
+\contentsline {section}{\numberline {5.10}Dashboard and User Interface Implementation}{39}{section.5.10}%
+\contentsline {section}{\numberline {5.11}Deployment and Containerization}{39}{section.5.11}%
+\contentsline {section}{\numberline {5.12}Security Considerations}{39}{section.5.12}%
+\contentsline {chapter}{\numberline {6}TESTING AND RESULTS}{40}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{40}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Testing Strategy}{40}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Unit Testing}{40}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Firmware Processing Module}{41}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Network Scanning Module}{41}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Malware Detection Module}{41}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Integration Testing}{41}{section.6.4}%
+\contentsline {section}{\numberline {6.5}System Testing}{41}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Security Testing}{42}{section.6.6}%
+\contentsline {chapter}{\numberline {7}CONCLUSIONS}{43}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Future Enhancements}{43}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Limitations}{43}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Final Remarks}{44}{section.7.3}%
+\contentsline {chapter}{\numberline {A}SAMPLE CODE}{46}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Firmware Extractor Class}{46}{section.A.1}%

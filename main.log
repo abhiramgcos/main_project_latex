@@ -1,10 +1,9 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 23:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 23:12
 entering extended mode
  restricted \write18 enabled.
- file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/munna/Documents/latex/main.tex
-(c:/Users/munna/Documents/latex/main.tex
+**main.tex
+(./main.tex
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
 (c:/texlive/2025/texmf-dist/tex/latex/base/report.cls
@@ -24,20 +23,26 @@ File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
 \bibindent=\dimen148
-) (c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@prehook=\toks17
 \inpenc@posthook=\toks18
-) (c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
-) (c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/geometry/geometry.sty
 Package: geometry 2020/01/02 v5.9 Page Geometry
- (c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks19
-) (c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/ifvtex.sty
 Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
- (c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
+
+(c:/texlive/2025/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
 ))
 \Gm@cnth=\count284
@@ -52,29 +57,42 @@ Package: iftex 2024/12/12 v1.0g TeX engine tests
 \Gm@layouthoffset=\dimen155
 \Gm@layoutvoffset=\dimen156
 \Gm@dimlist=\toks20
-) (c:/texlive/2025/texmf-dist/tex/latex/newtx/newtxtext.sty
-Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex support for TeXGyreTermesX
- `newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes and its extensions (msharpe) (c:/texlive/2025/texmf-dist/tex/latex/xpatch/xpatch.sty (c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/newtxtext.sty
+Package: newtxtext 2024/04/01 v1.744(Michael Sharpe) latex and unicode latex su
+pport for TeXGyreTermesX
+
+`newtxtext' v1.744, 2024/04/01 Text macros taking advantage of TeXGyre Termes a
+nd its extensions (msharpe)
+(c:/texlive/2025/texmf-dist/tex/latex/xpatch/xpatch.sty
+(c:/texlive/2025/texmf-dist/tex/latex/l3kernel/expl3.sty
 Package: expl3 2026-01-19 L3 programming layer (loader) 
- (c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+
+(c:/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count287
 ))
 Package: xpatch 2020/03/25 v0.3a Extending etoolbox patching commands
- (c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
 Package: xparse 2025-10-09 L3 Experimental document command parser
-) (c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count288
-)) (c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
+))
+(c:/texlive/2025/texmf-dist/tex/latex/xcolor/xcolor.sty
 Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
- (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 274.
- (c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
-) (c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
 Package xcolor Info: Model `RGB' extended on input line 1365.
@@ -84,36 +102,47 @@ Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
 Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
-) (c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/xkeyval/xkeyval.sty
 Package: xkeyval 2025/11/04 v2.10 package option processing (HA)
- (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex (c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+
+(c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2025/texmf-dist/tex/generic/xkeyval/xkvutils.tex
 \XKV@toks=\toks21
 \XKV@tempa@toks=\toks22
 \XKV@tempb@toks=\toks23
 )
 \XKV@depth=\count289
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
-)) (c:/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
+))
+(c:/texlive/2025/texmf-dist/tex/latex/base/textcomp.sty
 Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
-) (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty (c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
+)
+(c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.sty
+(c:/texlive/2025/texmf-dist/tex/generic/xstring/xstring.tex
 \xs_counta=\count290
 \xs_countb=\count291
 )
 Package: xstring 2023/08/22 v1.86 String manipulations (CT)
-) (c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
-) (c:/texlive/2025/texmf-dist/tex/latex/carlisle/scalefnt.sty)
+)
+(c:/texlive/2025/texmf-dist/tex/latex/carlisle/scalefnt.sty)
 LaTeX Font Info:    Setting ntxLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTLF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxOsF sub-encoding to TS1/0 on input line 24.
 LaTeX Font Info:    Setting ntxTOsF sub-encoding to TS1/0 on input line 24.
- (c:/texlive/2025/texmf-dist/tex/generic/kastrup/binhex.tex)
+
+(c:/texlive/2025/texmf-dist/tex/generic/kastrup/binhex.tex)
 \ntx@tmpcnta=\count292
 \ntx@cnt=\count293
- (c:/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/fontaxes/fontaxes.sty
 Package: fontaxes 2026-01-02 v2.0.2 Font selection axes (deprecated)
 Applying: [2024-11-01] Use figureversions if present on input line 74.
- (c:/texlive/2025/texmf-dist/tex/latex/figureversions/figureversions.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/figureversions/figureversions.sty
 Package: figureversions 2025-04-29 v1.0.1 Figure versions
 )
 Already applied: [0000-00-00] Fall back to v1 on input line 76.
@@ -133,23 +162,29 @@ Already applied: [0000-00-00] Fall back to v1 on input line 76.
 \tx@dimBB=\dimen169
 \tx@dimC=\dimen170
 LaTeX Info: Redefining \oldstylenums on input line 902.
-) (c:/texlive/2025/texmf-dist/tex/latex/newtx/newtxmath.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/newtxmath.sty
 Package: newtxmath 2024/09/22 v1.754
- `newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
+
+`newtxmath' v1.754, 2024/09/22 Math macros based originally on txfonts (msharpe
+) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2025/07/09 v2.17z AMS math features
 \@mathmargin=\skip51
 
 For additional information on amsmath, use the `?' option.
 (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2024/11/17 v2.01 AMS text
- (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks24
 \ex@=\dimen171
-)) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
+))
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen172
-) (c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2022/04/08 v2.04 operator names
 )
 \inf@bad=\count294
@@ -199,11 +234,13 @@ LaTeX Info: Redefining \Relbar on input line 970.
 \mathdisplay@stack=\toks28
 LaTeX Info: Redefining \[ on input line 2950.
 LaTeX Info: Redefining \] on input line 2951.
-) (c:/texlive/2025/texmf-dist/tex/latex/oberdiek/centernot.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/oberdiek/centernot.sty
 Package: centernot 2016/05/16 v1.4 Centers the not symbol horizontally (HO)
 )
 \tx@cntz=\count306
- (c:/texlive/2025/texmf-dist/tex/generic/kastrup/binhex.tex)
+
+(c:/texlive/2025/texmf-dist/tex/generic/kastrup/binhex.tex)
 \tx@Isdigit=\count307
 \tx@IsAlNum=\count308
 \tx@tA=\toks29
@@ -277,17 +314,20 @@ Now handling font encoding LMX ...
 ... no UTF-8 mapping file for font encoding LMX
 LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `normal' on input line 664.
+(Font)              `largesymbols' in the math version `normal' on input line 6
+64.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Encoding `OMX' has changed to `LMX' for symbol font
-(Font)              `largesymbols' in the math version `bold' on input line 664.
+(Font)              `largesymbols' in the math version `bold' on input line 664
+.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  OMX/cmex/m/n --> LMX/ntxexx/m/n on input line 664.
 LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
 (Font)                  LMX/ntxexx/m/n --> LMX/ntxexx/b/n on input line 665.
 \symlargesymbolsTXA=\mathgroup7
 LaTeX Font Info:    Overwriting symbol font `largesymbolsTXA' in version `bold'
+
 (Font)                  U/ntxexa/m/n --> U/ntxexa/b/n on input line 679.
 \tx@sbptoks=\toks31
 LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 902.
@@ -307,10 +347,14 @@ LaTeX Font Info:    Redeclaring math accent \vec on input line 2057.
 LaTeX Info: Redefining \Bbbk on input line 2847.
 LaTeX Info: Redefining \not on input line 2995.
 ) (c:/texlive/2025/texmf-dist/tex/latex/tfrupee/tfrupee.sty
-Package: tfrupee 2010/12/15 LaTeX Support for the TechFat Rupee symbols by TechFat (http://techfat.blogspot.com/2010/07/new-open-source-india-rupee-font.html). Adapted for use with TeX by Palle Jorgensen, hamselv(a)pallej.dk
-) (c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
+Package: tfrupee 2010/12/15 LaTeX Support for the TechFat Rupee symbols by Tech
+Fat (http://techfat.blogspot.com/2010/07/new-open-source-india-rupee-font.html)
+. Adapted for use with TeX by Palle Jorgensen, hamselv(a)pallej.dk
+)
+(c:/texlive/2025/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2022/12/04 v6.7b set line spacing
-) (c:/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tocloft/tocloft.sty
 Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
 Package tocloft Info: The document has chapter divisions on input line 51.
 \cftparskip=\skip54
@@ -349,7 +393,8 @@ Package tocloft Info: The document has chapter divisions on input line 51.
 \cftbeforetabskip=\skip85
 \cfttabindent=\skip86
 \cfttabnumwidth=\skip87
-) (c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/titlesec/titlesec.sty
 Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \ttl@box=\box55
 \beforetitleunit=\skip88
@@ -360,8 +405,10 @@ Package: titlesec 2025/01/04 v2.17 Sectioning titles
 \titlewidth=\dimen182
 \titlewidthlast=\dimen183
 \titlewidthfirst=\dimen184
-) (c:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
 \f@nch@headwidth=\skip90
 \f@nch@offset@elh=\skip91
 \f@nch@offset@erh=\skip92
@@ -377,7 +424,8 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \f@nch@widthC=\skip102
 \f@nch@widthR=\skip103
 \@temptokenb=\toks33
-) (c:/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/listings.sty
 \lst@mode=\count311
 \lst@gtempboxa=\box56
 \lst@token=\toks34
@@ -390,14 +438,17 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \lst@newlines=\count315
 \lst@lineno=\count316
 \lst@maxwidth=\dimen188
- (c:/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstpatch.sty
 File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
-) (c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/lstmisc.sty
 File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
 \c@lstnumber=\count317
 \lst@skipnumbers=\count318
 \lst@framebox=\box57
-) (c:/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
+)
+(c:/texlive/2025/texmf-dist/tex/latex/listings/listings.cfg
 File: listings.cfg 2025/11/14 1.11b listings configuration
 ))
 Package: listings 2025/11/14 1.11b (Carsten Heinz)
@@ -410,7 +461,8 @@ Package: listings 2025/11/14 1.11b (Carsten Heinz)
     so I'm assuming it got fixed.
 (c:/texlive/2025/texmf-dist/tex/latex/caption/caption.sty
 Package: caption 2023/08/05 v3.6o Customizing captions (AR)
- (c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/caption/caption3.sty
 Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
 \caption@tempdima=\dimen189
 \captionmargin=\dimen190
@@ -425,32 +477,39 @@ Package caption Info: Standard document class detected.
 \c@caption@flags=\count319
 \c@continuedfloat=\count320
 Package caption Info: listings package is loaded.
-) (c:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/caption/subcaption.sty
 Package: subcaption 2023/07/28 v1.6b Sub-captions (AR)
 Package caption Info: New subtype `subfigure' on input line 238.
 \c@subfigure=\count321
 Package caption Info: New subtype `subtable' on input line 238.
 \c@subtable=\count322
-) (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
- (c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
-) (c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+)
+(c:/texlive/2025/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
 \Gin@req@height=\dimen197
 \Gin@req@width=\dimen198
-) (c:/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/multirow/multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip104
 \multirow@cntb=\count323
 \multirow@dima=\skip105
 \bigstrutjot=\dimen199
-) (c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \LTleft=\skip106
 \LTright=\skip107
@@ -468,7 +527,8 @@ Package: longtable 2025-10-13 v4.24 Multi-page Table package (DPC)
 \c@LT@tables=\count327
 \c@LT@chunks=\count328
 \LT@p@ftn=\toks35
-) (c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/tools/array.sty
 Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \col@sep=\dimen257
 \ar@mcellbox=\box63
@@ -477,63 +537,86 @@ Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
 \extratabsurround=\skip110
 \backup@length=\skip111
 \ar@cellbox=\box64
-) (c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty (c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.sty
+(c:/texlive/2025/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
 Package: l3keys2e 2025-10-09 LaTeX2e option processing using LaTeX3 keys
 )
 Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \g__lipsum_par_int=\count329
 \l__lipsum_a_int=\count330
 \l__lipsum_b_int=\count331
- (c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex)) (c:/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex))
+(c:/texlive/2025/texmf-dist/tex/latex/xurl/xurl.sty
 Package: xurl 2022/01/09 v 0.10 modify URL breaks
- (c:/texlive/2025/texmf-dist/tex/latex/url/url.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip18
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
-)) (c:/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
+))
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2026-01-29 v7.01p Hypertext links for LaTeX
- (c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
 Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-) (c:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
-) (c:/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pdfescape/pdfescape.sty
 Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
- (c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+
+(c:/texlive/2025/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
 Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (c:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
-Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
- (c:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2025/texmf-dist/tex/generic/infwarerr/infwarerr.sty
 Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode found.
-)) (c:/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
+))
+(c:/texlive/2025/texmf-dist/tex/latex/hycolor/hycolor.sty
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-) (c:/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
- (c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-) (c:/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
- (c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
 \c@section@level=\count332
-) (c:/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+(c:/texlive/2025/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
 )
 \@linkdim=\dimen259
 \Hy@linkcounter=\count333
 \Hy@pagecounter=\count334
- (c:/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2026-01-29 v7.01p Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
-) (c:/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
+)
+(c:/texlive/2025/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count335
- (c:/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2026-01-29 v7.01p Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
@@ -548,10 +631,13 @@ Package hyperref Info: Bookmarks ON on input line 4468.
 \c@Hy@tempcnt=\count336
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen260
- (c:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
+
+(c:/texlive/2025/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
- (c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
-Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+
+(c:/texlive/2025/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
 ))
 \Fld@menulength=\count337
 \Field@Width=\dimen261
@@ -568,38 +654,56 @@ Package hyperref Info: PDF/A mode OFF on input line 6114.
 \c@Hfootnote=\count340
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
- (c:/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
+
+(c:/texlive/2025/texmf-dist/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
 \Fld@listcount=\count341
 \c@bookmark@seq@number=\count342
- (c:/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
- (c:/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+
+(c:/texlive/2025/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
-Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
 )
 \Hy@SectionHShift=\skip112
-) (c:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
+)
+(c:/texlive/2025/texmf-dist/tex/latex/acronym/acronym.sty
 Package: acronym 2025/01/17 v1.50 Support for acronyms (Tobias Oetiker)
- (c:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/bigfoot/suffix.sty
 Package: suffix 2006/07/15 1.5a Variant command support
 )
 \AC@clearlist=\toks37
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 137.
-LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line 139.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
+LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
+ 139.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 12.0pt on input line 139.
- (./main.aux (./frontmatter/titlepage.aux) (./frontmatter/certificate.aux) (./frontmatter/declaration.aux) (./frontmatter/acknowledgements.aux) (./frontmatter/abstract.aux) (./frontmatter/abbreviations.aux) (./chapters/ch1_introduction.aux) (./chapters/ch2_literature_review.aux) (./chapters/ch3_system_analysis.aux) (./chapters/ch4_methodology.aux) (./chapters/ch5_system_implementation.aux) (./chapters/ch6_testing_and_results.aux) (./chapters/ch7_conclusions.aux) (./chapters/appendices.aux))
+ (./main.aux
+(./frontmatter/titlepage.aux) (./frontmatter/certificate.aux)
+(./frontmatter/declaration.aux) (./frontmatter/acknowledgements.aux)
+(./frontmatter/abstract.aux) (./frontmatter/abbreviations.aux)
+(./chapters/ch1_introduction.aux) (./chapters/ch2_literature_review.aux)
+(./chapters/ch3_system_analysis.aux) (./chapters/ch4_methodology.aux)
+(./chapters/ch5_system_implementation.aux)
+(./chapters/ch6_testing_and_results.aux) (./chapters/ch7_conclusions.aux)
+(./chapters/appendices.aux))
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 139.
-LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line 139.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/omlntxmi.fd
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 139.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 139.
@@ -614,20 +718,26 @@ LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
 LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 139.
-LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 139.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxexa.fd
+LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
+139.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
 LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 139.
-LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line 139.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/lmsntxsy.fd
+LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
+ 139.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
 LaTeX Font Info:    ... okay on input line 139.
 LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 139.
-LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input line 139.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/lmxntxexx.fd
+LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
+e 139.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
 LaTeX Font Info:    ... okay on input line 139.
@@ -685,15 +795,20 @@ LaTeX Font Info:    ... okay on input line 139.
 \everyMPtoPDFconversion=\toks39
 ) (c:/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
- (c:/texlive/2025/texmf-dist/tex/latex/grfext/grfext.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/grfext/grfext.sty
 Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
 )
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
 Package grfext Info: Graphics extension search list:
-(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps]
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 504.
- (c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+
+(c:/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
 ))
 \c@mv@tabular=\count349
 \c@mv@boldtabular=\count350
@@ -703,12 +818,14 @@ LaTeX Info: Command `\ddddot' is already robust on input line 139.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
 Package caption Info: longtable package is loaded.
- (c:/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
+
+(c:/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
 Package hyperref Info: Link coloring ON on input line 139.
- (./main.out) (./main.out)
+ (./main.out)
+(./main.out)
 \@outlinefile=\write3
 \openout3 = `main.out'.
 
@@ -723,8 +840,10 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 9.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 14.4pt on input line 13.
-LaTeX Font Info:    Trying to load font information for OT1+minntx on input line 17.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/ot1minntx.fd
+LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
+e 17.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
@@ -751,8 +870,10 @@ LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 (Font)              scaled to size 8.8pt on input line 17.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
 (Font)              scaled to size 6.6pt on input line 17.
-LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 17.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxmia.fd
+LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
+17.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
@@ -761,8 +882,10 @@ LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 (Font)              scaled to size 8.8pt on input line 17.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
 (Font)              scaled to size 6.6pt on input line 17.
-LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 17.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
+17.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
@@ -771,8 +894,10 @@ LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 (Font)              scaled to size 8.8pt on input line 17.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
 (Font)              scaled to size 6.6pt on input line 17.
-LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 17.
- (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
+LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
+17.
+
+(c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
@@ -794,7 +919,8 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
  [1
 
 
-{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}])
+{c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/
+texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}])
 \openout2 = `frontmatter/certificate.aux'.
 
  (./frontmatter/certificate.tex
@@ -809,7 +935,8 @@ File: assets/header.png Graphic file (type png)
 Package pdftex.def Info: assets/header.png  used on input line 143.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.143 \include{frontmatter/certificate}
@@ -821,7 +948,8 @@ l.143 \include{frontmatter/certificate}
  <./assets/header.png>]
 \openout2 = `frontmatter/declaration.aux'.
 
- (./frontmatter/declaration.tex)
+
+(./frontmatter/declaration.tex)
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
 Package pdftex.def Info: assets/header.png  used on input line 144.
@@ -839,7 +967,8 @@ File: assets/header.png Graphic file (type png)
 <use assets/header.png>
 Package pdftex.def Info: assets/header.png  used on input line 145.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
- [2
+
+[2
 
 
 
@@ -847,10 +976,10 @@ Package pdftex.def Info: assets/header.png  used on input line 145.
 ]
 \openout2 = `frontmatter/abstract.aux'.
 
- (./frontmatter/abstract.tex)
+ (./frontmatter/abstract.tex) (./main.toc
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
-Package pdftex.def Info: assets/header.png  used on input line 153.
+Package pdftex.def Info: assets/header.png  used on input line 30.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
  [3
 
@@ -859,24 +988,55 @@ Package pdftex.def Info: assets/header.png  used on input line 153.
 
 
 
-] (./main.lof)
-\tf@lof=\write4
-\openout4 = `main.lof'.
+]
+File: assets/header.png Graphic file (type png)
+<use assets/header.png>
+Package pdftex.def Info: assets/header.png  used on input line 69.
+(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
+<assets/footer.png, id=575, 597.6729pt x 24.09pt>
+File: assets/footer.png Graphic file (type png)
+<use assets/footer.png>
+Package pdftex.def Info: assets/footer.png  used on input line 69.
+(pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
+ [4 <./assets/footer.png>]
+File: assets/header.png Graphic file (type png)
+<use assets/header.png>
+Package pdftex.def Info: assets/header.png  used on input line 106.
+(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
+File: assets/footer.png Graphic file (type png)
+<use assets/footer.png>
+Package pdftex.def Info: assets/footer.png  used on input line 106.
+(pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
+
+[5])
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+File: assets/header.png Graphic file (type png)
+<use assets/header.png>
+Package pdftex.def Info: assets/header.png  used on input line 153.
+(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
+File: assets/footer.png Graphic file (type png)
+<use assets/footer.png>
+Package pdftex.def Info: assets/footer.png  used on input line 153.
+(pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
+ [6] (./main.lof)
+\tf@lof=\write5
+\openout5 = `main.lof'.
 
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
 Package pdftex.def Info: assets/header.png  used on input line 158.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-<assets/footer.png, id=507, 597.6729pt x 24.09pt>
 File: assets/footer.png Graphic file (type png)
 <use assets/footer.png>
 Package pdftex.def Info: assets/footer.png  used on input line 158.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [4
+ [7
 
- <./assets/footer.png>] (./main.lot)
-\tf@lot=\write5
-\openout5 = `main.lot'.
+] (./main.lot)
+\tf@lot=\write6
+\openout6 = `main.lot'.
 
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
@@ -886,7 +1046,7 @@ File: assets/footer.png Graphic file (type png)
 <use assets/footer.png>
 Package pdftex.def Info: assets/footer.png  used on input line 163.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [5
+ [8
 
 ]
 \openout2 = `frontmatter/abbreviations.aux'.
@@ -894,7 +1054,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 163.
  (./frontmatter/abbreviations.tex)
 \openout2 = `chapters/ch1_introduction.aux'.
 
- (./chapters/ch1_introduction.tex
+
+(./chapters/ch1_introduction.tex
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 17.28pt on input line 3.
@@ -903,7 +1064,8 @@ File: assets/header.png Graphic file (type png)
 Package pdftex.def Info: assets/header.png  used on input line 11.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.11 
@@ -1171,7 +1333,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 174.
  [28]
 \openout2 = `chapters/ch4_methodology.aux'.
 
- (./chapters/ch4_methodology.tex
+
+(./chapters/ch4_methodology.tex
 Chapter 4.
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
@@ -1245,7 +1408,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 175.
 
  (./chapters/ch5_system_implementation.tex
 Chapter 5.
-LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input line 13.
+LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
+e 13.
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
@@ -1294,7 +1458,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 176.
  [39]
 \openout2 = `chapters/ch6_testing_and_results.aux'.
 
- (./chapters/ch6_testing_and_results.tex
+
+(./chapters/ch6_testing_and_results.tex
 Chapter 6.
 File: assets/header.png Graphic file (type png)
 <use assets/header.png>
@@ -1357,7 +1522,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 18.
  [44]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 12.0pt on input line 21.
-LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 39.
+LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
+39.
  (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
@@ -1377,7 +1543,8 @@ Package pdftex.def Info: assets/footer.png  used on input line 178.
 ]
 \openout2 = `chapters/appendices.aux'.
 
- (./chapters/appendices.tex
+
+(./chapters/appendices.tex
 Appendix A.
 (c:/texlive/2025/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2025/11/14 1.11b listings language file
@@ -1388,8 +1555,10 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 8.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 6.0pt on input line 8.
-LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8.
- (c:/texlive/2025/texmf-dist/tex/latex/txfonts/t1txtt.fd
+LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
+.
+
+(c:/texlive/2025/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/b/n' in size <10.95> not available
@@ -1408,7 +1577,15 @@ Package pdftex.def Info: assets/footer.png  used on input line 180.
 
 
 
-] (./main.aux (./frontmatter/titlepage.aux) (./frontmatter/certificate.aux) (./frontmatter/declaration.aux) (./frontmatter/acknowledgements.aux) (./frontmatter/abstract.aux) (./frontmatter/abbreviations.aux) (./chapters/ch1_introduction.aux) (./chapters/ch2_literature_review.aux) (./chapters/ch3_system_analysis.aux) (./chapters/ch4_methodology.aux) (./chapters/ch5_system_implementation.aux) (./chapters/ch6_testing_and_results.aux) (./chapters/ch7_conclusions.aux) (./chapters/appendices.aux))
+] (./main.aux
+(./frontmatter/titlepage.aux) (./frontmatter/certificate.aux)
+(./frontmatter/declaration.aux) (./frontmatter/acknowledgements.aux)
+(./frontmatter/abstract.aux) (./frontmatter/abbreviations.aux)
+(./chapters/ch1_introduction.aux) (./chapters/ch2_literature_review.aux)
+(./chapters/ch3_system_analysis.aux) (./chapters/ch4_methodology.aux)
+(./chapters/ch5_system_implementation.aux)
+(./chapters/ch6_testing_and_results.aux) (./chapters/ch7_conclusions.aux)
+(./chapters/appendices.aux))
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2020/03/25>
@@ -1417,18 +1594,25 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 45777AC514E118D6B0BBE6A4E1DD044E;23268.
  ) 
 Here is how much of TeX's memory you used:
- 20162 strings out of 467533
- 313929 string characters out of 5423668
- 1057020 words of memory out of 5000000
- 48466 multiletter control sequences out of 15000+600000
+ 20171 strings out of 467533
+ 313939 string characters out of 5423668
+ 1057022 words of memory out of 5000000
+ 48470 multiletter control sequences out of 15000+600000
  683048 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,17n,117p,1848b,1593s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/tfrupee/tfrupee.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on main.pdf (53 pages, 446144 bytes).
+ 75i,17n,117p,1817b,1593s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb><c:/texlive/
+2025/texmf-dist/fonts/type1/public/tex-gyre/qtmr.pfb><c:/texlive/2025/texmf-dis
+t/fonts/type1/public/txfonts/t1xbtt.pfb><c:/texlive/2025/texmf-dist/fonts/type1
+/public/txfonts/t1xtt.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/tfrupe
+e/tfrupee.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c
+:/texlive/2025/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2025/te
+xmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2025/texmf-dist/fonts/ty
+pe1/public/newtx/ztmri.pfb>
+Output written on main.pdf (56 pages, 455179 bytes).
 PDF statistics:
- 853 PDF objects out of 1000 (max. 8388607)
- 767 compressed objects within 8 object streams
- 201 named destinations out of 1000 (max. 500000)
+ 986 PDF objects out of 1000 (max. 8388607)
+ 896 compressed objects within 9 object streams
+ 204 named destinations out of 1000 (max. 500000)
  963 words of extra memory for PDF output out of 10000 (max. 10000000)
 
