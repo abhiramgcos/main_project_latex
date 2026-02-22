@@ -102,7 +102,7 @@
 {\thesection} % Section number "X.Y"
 {1em} % Space between number and title
 {} % Code before title (empty)
-\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus .2ex}{2.3ex plus .2ex} % Default spacing
+\titlespacing*{\section}{0pt}{3.5ex plus 1ex minus.2ex}{2.3ex plus.2ex} % Default spacing
 
 % Subsection formatting (Heading 3 equivalent)
 \titleformat{\subsection}
@@ -110,7 +110,7 @@
 {\thesubsection} % Subsection number "X.Y.Z"
 {1em} % Space between number and title
 {} % Code before title (empty)
-\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus .2ex}{1.5ex plus .2ex} % Default spacing
+\titlespacing*{\subsection}{0pt}{3.25ex plus 1ex minus.2ex}{1.5ex plus.2ex} % Default spacing
 
 
 % Code listing setup
@@ -194,7 +194,7 @@
 	
 
 	
-	Certified that this report entitled \textbf{``FIRMAI: AI-Powered IoT Firmware Vulnerability Analyzer with Network Intelligence''} is the report of project completed by the following students during \textbf{2024-2025} in partial fulfillment of the requirements for the award of the Degree of Bachelor of Technology in Computer Science and Engineering (Internet of Things, Cyber Security including Blockchain Technology).
+	Certified that this report entitled \textbf{``FIRMAI: AI-Powered IoT Firmware Vulnerability Analyzer with Network Intelligence''} is the report of project completed by the following students during \textbf{2024--2025} in partial fulfillment of the requirements for the award of the Degree of Bachelor of Technology in Computer Science and Engineering (Internet of Things, Cyber Security including Blockchain Technology).
 	
 	\vspace{0.5cm}
 	
@@ -710,7 +710,7 @@ Our literature review reveals substantial progress in individual domains while h
 
 \subsection{Firmware Image Processing (FR-1)}
 
-The system shall extract, analyze, and prepare firmware images for emulation. Input includes firmware binary files in common formats (.bin, .img, .zip, .tar.gz). Processing extracts filesystem contents using binwalk and complementary tools, identifies embedded Linux kernel version and architecture, locates configuration files and executables, analyzes filesystem structure determining device type and manufacturer, and generates metadata describing firmware characteristics. Output includes extracted filesystem directory preserving original hierarchy, metadata JSON file containing kernel version and architecture details, and analysis report summarizing firmware contents. This high-priority requirement provides foundational capability required for firmware emulation. Validation confirms successful extraction from firmware images representing major device categories and processor architectures.
+The system shall extract, analyze, and prepare firmware images for emulation. Input includes firmware binary files in common formats (.bin,.img,.zip,.tar.gz). Processing extracts filesystem contents using binwalk and complementary tools, identifies embedded Linux kernel version and architecture, locates configuration files and executables, analyzes filesystem structure determining device type and manufacturer, and generates metadata describing firmware characteristics. Output includes extracted filesystem directory preserving original hierarchy, metadata JSON file containing kernel version and architecture details, and analysis report summarizing firmware contents. This high-priority requirement provides foundational capability required for firmware emulation. Validation confirms successful extraction from firmware images representing major device categories and processor architectures.
 
 \subsection{Automated Firmware Emulation (FR-2)}
 
@@ -822,7 +822,7 @@ Recommended specifications include Intel Core i7-11700K or AMD Ryzen 7 5800X wit
 
 \subsection{Production Deployment Hardware}
 
-Small-scale deployment suitable for organizations with 1-100 devices requires Intel Xeon E-2236 with 6 cores at 3.4 GHz or AMD EPYC 7232P with 8 cores at 3.2 GHz, 32 GB ECC RAM, 512 GB NVMe SSD plus 2 TB HDD or SSD, dual 10 Gigabit Ethernet adapters, optional 550W redundant power supply, 1U or 2U rackmount server or tower workstation form factor, estimated cost \rupee 150,000-\rupee 250,000, and capacity to analyze 50-100 firmware images, scan networks up to 500 devices, and process 1000-5000 malware samples per day.
+Small-scale deployment suitable for organizations with 1-100 devices requires Intel Xeon E-2236 with 6 cores at 3.4 GHz or AMD EPYC 7232P with 8 cores at 3.2 GHz, 32 GB ECC RAM, 512 GB NVMe SSD plus 2 TB HDD or SSD, dual 10 Gigabit Ethernet adapters, optional 550W redundant power supply, 1U or 2U rackmount server or tower workstation form factor, estimated cost \rupee 150,000-\rupee 250,000, and capacity to analyze 50-100 firmware images, scan networks up to 500 devices, and process 1000--5000 malware samples per day.
 
 Medium-scale deployment suitable for organizations with 100-1000 devices requires dual Intel Xeon Silver 4314 with 32 cores total at 2.4 GHz or AMD EPYC 7452 with 32 cores at 2.35 GHz, 128 GB ECC RAM with 8$\times$16GB modules for dual-channel, 1 TB NVMe SSD plus 8 TB RAID 10 array plus optional SAN or NAS for extended storage, optional but recommended NVIDIA Tesla T4 or A40 for high-throughput malware classification, dual 25 Gigabit Ethernet adapters with failover, dual redundant 750W power supplies, 2U rackmount server form factor, estimated cost \rupee 400,000-\rupee 700,000, and capacity to analyze 500-1000 firmware images per day, scan networks with thousands of devices, and process 50,000+ malware samples per day with GPU.
 
@@ -1084,7 +1084,7 @@ The testing of FIRMAI was carried out using a structured approach to ensure full
 Unit testing was performed to verify the functionality of individual modules in isolation.
 
 \subsection{Firmware Processing Module}
-The firmware extraction module was tested using multiple firmware formats such as .bin, .img, and compressed archives. Binwalk was verified for correct extraction of filesystem structures, kernel images, and configuration files. The output was checked for accuracy and completeness.
+The firmware extraction module was tested using multiple firmware formats such as.bin,.img, and compressed archives. Binwalk was verified for correct extraction of filesystem structures, kernel images, and configuration files. The output was checked for accuracy and completeness.
 
 \subsection{Network Scanning Module}
 The ARP and TCP scanning functions were tested using known test networks containing routers, cameras, and IoT boards. The module was verified for correct IP detection, MAC address extraction, and port scanning.

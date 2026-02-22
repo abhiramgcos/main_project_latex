@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1771774349.77347 "c:/Users/munna/Documents/latex/main.tex" "main.pdf" "main" 1771774351.82864 0
-  "c:/Users/munna/Documents/latex/main.tex" 1771774346 145543 e4735657dfa62a387f6242cf0975bbcf ""
+["pdflatex"] 1771774726.26942 "c:/Users/munna/Documents/latex/main.tex" "main.pdf" "main" 1771774728.24697 0
+  "c:/Users/munna/Documents/latex/main.tex" 1771774725 146729 64514bd95f9bb190ddcc99d617f2d259 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1771759093 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1771759093 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1771760996 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -150,12 +150,12 @@
   "c:/texlive/2025/texmf.cnf" 1771762099 713 e69b156964470283e0530f5060668171 ""
   "images/footer.png" 1771739478 1637 5dee879f7338307f7e832a830f4fd17f ""
   "images/header.png" 1771739478 90700 742fb0c38d5919bd33a4a36be59db3de ""
-  "main.aux" 1771774351 26558 74c6b4813e5642429136ad4db772f383 "pdflatex"
-  "main.lof" 1771774351 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
-  "main.lot" 1771774351 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
-  "main.out" 1771774351 26066 e9c983e9b7482df873110772def34fa7 "pdflatex"
-  "main.tex" 1771774346 145543 e4735657dfa62a387f6242cf0975bbcf ""
-  "main.toc" 1771774351 12399 81316b2b9429821b74a46f0ddd91774c "pdflatex"
+  "main.aux" 1771774728 26558 74c6b4813e5642429136ad4db772f383 "pdflatex"
+  "main.lof" 1771774728 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
+  "main.lot" 1771774728 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
+  "main.out" 1771774728 26066 e9c983e9b7482df873110772def34fa7 "pdflatex"
+  "main.tex" 1771774725 146729 64514bd95f9bb190ddcc99d617f2d259 ""
+  "main.toc" 1771774728 12399 81316b2b9429821b74a46f0ddd91774c "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
