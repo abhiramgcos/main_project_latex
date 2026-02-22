@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 21:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 21:03
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -910,87 +910,47 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 24.88pt on input line 193.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 24.88pt on input line 193.
-
-! Undefined control sequence.
-l.196 	\backgroundsetup
-                       {
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-<images/providence_logo_background.png, id=565, 845.3181pt x 597.9138pt>
-File: images/providence_logo_background.png Graphic file (type png)
-<use images/providence_logo_background.png>
-Package pdftex.def Info: images/providence_logo_background.png  used on input l
-ine 200.
-(pdftex.def)             Requested size: 597.50787pt x 422.63322pt.
-
-Overfull \hbox (330.0358pt too wide) in paragraph at lines 197--202
-\T1/ntxtlf/m/n/12 scale=1, opac-ity=1, an-gle=0, contents=[]
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 197--202
-
- []
-
-<images/header.png, id=567, 205.641pt x 56.502pt>
+<images/header.png, id=565, 205.641pt x 56.502pt>
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 215.
+Package pdftex.def Info: images/header.png  used on input line 228.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.215 	
-        [1
+l.228 	\chapter
+               *{DECLARATION} [1
 
- <./images/header.png> <./images/providence_logo_background.png>]
+ <./images/header.png>]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 234.
-(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-
-[2]
-File: images/header.png Graphic file (type png)
-<use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 271.
+Package pdftex.def Info: images/header.png  used on input line 265.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
  [1
 
 ]
-! Undefined control sequence.
-l.273 	\backgroundsetup
-                       {contents={}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 297.
+Package pdftex.def Info: images/header.png  used on input line 291.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-[2
+ [2
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 311.
+Package pdftex.def Info: images/header.png  used on input line 305.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
  [3
 
-] (logs/main.toc
+]
+(logs/main.toc
 File: images/header.png Graphic file (type png)
 <use images/header.png>
 Package pdftex.def Info: images/header.png  used on input line 26.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-<images/footer.png, id=619, 597.6729pt x 24.09pt>
+<images/footer.png, id=612, 597.6729pt x 24.09pt>
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
 Package pdftex.def Info: images/footer.png  used on input line 26.
@@ -1030,26 +990,26 @@ Package pdftex.def Info: images/footer.png  used on input line 138.
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 315.
+Package pdftex.def Info: images/header.png  used on input line 309.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 315.
+Package pdftex.def Info: images/footer.png  used on input line 309.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [8]
-(logs/main.lof)
+ [8] (logs/main.lof)
 \tf@lof=\write5
 \openout5 = `main.lof'.
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 320.
+Package pdftex.def Info: images/header.png  used on input line 314.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 320.
+Package pdftex.def Info: images/footer.png  used on input line 314.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [9
+
+[9
 
 ] (logs/main.lot)
 \tf@lot=\write6
@@ -1057,22 +1017,22 @@ Package pdftex.def Info: images/footer.png  used on input line 320.
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 325.
+Package pdftex.def Info: images/header.png  used on input line 319.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 325.
+Package pdftex.def Info: images/footer.png  used on input line 319.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [10
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 352.
+Package pdftex.def Info: images/header.png  used on input line 346.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 352.
+Package pdftex.def Info: images/footer.png  used on input line 346.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [11
 
@@ -1080,107 +1040,92 @@ Package pdftex.def Info: images/footer.png  used on input line 352.
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 378.
+Package pdftex.def Info: images/header.png  used on input line 372.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 378.
+Package pdftex.def Info: images/footer.png  used on input line 372.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [12]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 388.
+Package pdftex.def Info: images/header.png  used on input line 382.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 388.
+Package pdftex.def Info: images/footer.png  used on input line 382.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [13]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 395.
+(Font)              scaled to size 17.28pt on input line 389.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 403.
+Package pdftex.def Info: images/header.png  used on input line 397.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.403 	
+l.397 	
         [1
 
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 418.
+Package pdftex.def Info: images/header.png  used on input line 412.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.418 	\subsection{Fragmentation Problems}
-                                           [2]
+ [2]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 432.
+Package pdftex.def Info: images/header.png  used on input line 426.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
  [3]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 447.
+Package pdftex.def Info: images/header.png  used on input line 441.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 447.
+Package pdftex.def Info: images/footer.png  used on input line 441.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [4]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 466.
+Package pdftex.def Info: images/header.png  used on input line 460.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.466 \chapter
+l.460 \chapter
               *{ACKNOWLEDGEMENTS} [1]
-! Undefined control sequence.
-l.468 \backgroundsetup
-                      {contents={}}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 492.
+Package pdftex.def Info: images/header.png  used on input line 486.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.492 \chapter
+l.486 \chapter
               *{ABSTRACT} [2
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 506.
+Package pdftex.def Info: images/header.png  used on input line 500.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.506 \cleardoublepage
+l.500 \cleardoublepage
                        % Ensures ToC starts on an odd page, applying fancy s...
 [3
 
@@ -1190,18 +1135,18 @@ l.506 \cleardoublepage
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 510.
+Package pdftex.def Info: images/header.png  used on input line 504.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 510.
+Package pdftex.def Info: images/footer.png  used on input line 504.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.510 \cleardoublepage
+l.504 \cleardoublepage
                        [4
 
 ] (logs/main.lof)
@@ -1210,18 +1155,18 @@ l.510 \cleardoublepage
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 515.
+Package pdftex.def Info: images/header.png  used on input line 509.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 515.
+Package pdftex.def Info: images/footer.png  used on input line 509.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.v}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.515 \cleardoublepage
+l.509 \cleardoublepage
                        [5
 
 ] (logs/main.lot)
@@ -1230,472 +1175,481 @@ l.515 \cleardoublepage
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 520.
+Package pdftex.def Info: images/header.png  used on input line 514.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 520.
+Package pdftex.def Info: images/footer.png  used on input line 514.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.520 \cleardoublepage
+l.514 \cleardoublepage
                        [6
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 547.
+Package pdftex.def Info: images/header.png  used on input line 541.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 547.
+Package pdftex.def Info: images/footer.png  used on input line 541.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.vii}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.547 	\acro{IP}{Internet Protocol}
+l.541 	\acro{IP}{Internet Protocol}
                                     [7
 
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 573.
+Package pdftex.def Info: images/header.png  used on input line 567.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 573.
+Package pdftex.def Info: images/footer.png  used on input line 567.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.viii}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.573 	\acro{TLS}{Transport Layer Security}
+l.567 	\acro{TLS}{Transport Layer Security}
                                             [8]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 583.
+Package pdftex.def Info: images/header.png  used on input line 577.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 583.
+Package pdftex.def Info: images/footer.png  used on input line 577.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.ix}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.583 \cleardoublepage
+l.577 \cleardoublepage
                        % Start main content on an odd page [9]
 Chapter 2.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 598.
+Package pdftex.def Info: images/header.png  used on input line 592.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.598 
+l.592 
        [1
 
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 613.
+Package pdftex.def Info: images/header.png  used on input line 607.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.613 \subsection{Fragmentation Problems}
+l.607 \subsection{Fragmentation Problems}
                                           [2]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 627.
+Package pdftex.def Info: images/header.png  used on input line 621.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.627 \section{Objectives}
+l.621 \section{Objectives}
                            [3]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 642.
+Package pdftex.def Info: images/header.png  used on input line 636.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 642.
+Package pdftex.def Info: images/footer.png  used on input line 636.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.642 
+l.636 
        [4]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 656.
+Package pdftex.def Info: images/header.png  used on input line 650.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 656.
+Package pdftex.def Info: images/footer.png  used on input line 650.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [5]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 675.
+Package pdftex.def Info: images/header.png  used on input line 669.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 675.
+Package pdftex.def Info: images/footer.png  used on input line 669.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [6]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 675.
+Package pdftex.def Info: images/header.png  used on input line 669.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 675.
+Package pdftex.def Info: images/footer.png  used on input line 669.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [7]
 Chapter 3.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 688.
+Package pdftex.def Info: images/header.png  used on input line 682.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 688.
+Package pdftex.def Info: images/footer.png  used on input line 682.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [8
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 700.
+Package pdftex.def Info: images/header.png  used on input line 694.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 700.
+Package pdftex.def Info: images/footer.png  used on input line 694.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [9]
-Overfull \hbox (9.17854pt too wide) in paragraph at lines 703--704
+Overfull \hbox (9.17854pt too wide) in paragraph at lines 697--698
 []\T1/ntxtlf/m/n/12 Hybrid ar-chi-tec-tures com-bin-ing mul-ti-ple net-work typ
 es lever-age com-ple-men-tary strengths.
  []
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 710.
+Package pdftex.def Info: images/header.png  used on input line 704.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 710.
+Package pdftex.def Info: images/footer.png  used on input line 704.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [10]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 713.
+Package pdftex.def Info: images/header.png  used on input line 707.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 713.
+Package pdftex.def Info: images/footer.png  used on input line 707.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [11]
 Chapter 4.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 728.
+Package pdftex.def Info: images/header.png  used on input line 722.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 728.
+Package pdftex.def Info: images/footer.png  used on input line 722.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [12
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 740.
+Package pdftex.def Info: images/header.png  used on input line 734.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 740.
+Package pdftex.def Info: images/footer.png  used on input line 734.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [13]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 752.
+Package pdftex.def Info: images/header.png  used on input line 746.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 752.
+Package pdftex.def Info: images/footer.png  used on input line 746.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [14]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 766.
+Package pdftex.def Info: images/header.png  used on input line 760.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 766.
+Package pdftex.def Info: images/footer.png  used on input line 760.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [15]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 778.
+Package pdftex.def Info: images/header.png  used on input line 772.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 778.
+Package pdftex.def Info: images/footer.png  used on input line 772.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [16]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 792.
+Package pdftex.def Info: images/header.png  used on input line 786.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 792.
+Package pdftex.def Info: images/footer.png  used on input line 786.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [17]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 802.
+Package pdftex.def Info: images/header.png  used on input line 796.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 802.
+Package pdftex.def Info: images/footer.png  used on input line 796.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [18]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 812.
+Package pdftex.def Info: images/header.png  used on input line 806.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 812.
+Package pdftex.def Info: images/footer.png  used on input line 806.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [19]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 826.
+Package pdftex.def Info: images/header.png  used on input line 820.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 826.
+Package pdftex.def Info: images/footer.png  used on input line 820.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [20]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 836.
+Package pdftex.def Info: images/header.png  used on input line 830.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 836.
+Package pdftex.def Info: images/footer.png  used on input line 830.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [21]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 850.
+Package pdftex.def Info: images/header.png  used on input line 844.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 850.
+Package pdftex.def Info: images/footer.png  used on input line 844.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [22]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 864.
+Package pdftex.def Info: images/header.png  used on input line 858.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 864.
+Package pdftex.def Info: images/footer.png  used on input line 858.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [23]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 872.
+Package pdftex.def Info: images/header.png  used on input line 866.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 872.
+Package pdftex.def Info: images/footer.png  used on input line 866.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [24]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 884.
+Package pdftex.def Info: images/header.png  used on input line 878.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 884.
+Package pdftex.def Info: images/footer.png  used on input line 878.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [25{c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 900.
+Package pdftex.def Info: images/header.png  used on input line 894.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 900.
+Package pdftex.def Info: images/footer.png  used on input line 894.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [26]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 914.
+Package pdftex.def Info: images/header.png  used on input line 908.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 914.
+Package pdftex.def Info: images/footer.png  used on input line 908.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [27]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 919.
+Package pdftex.def Info: images/header.png  used on input line 913.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 919.
+Package pdftex.def Info: images/footer.png  used on input line 913.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [28]
 Chapter 5.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 930.
+Package pdftex.def Info: images/header.png  used on input line 924.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 930.
+Package pdftex.def Info: images/footer.png  used on input line 924.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [29
 
 ]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 938.
+Package pdftex.def Info: images/header.png  used on input line 932.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 938.
+Package pdftex.def Info: images/footer.png  used on input line 932.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [30]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 948.
+Package pdftex.def Info: images/header.png  used on input line 942.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 948.
+Package pdftex.def Info: images/footer.png  used on input line 942.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [31]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 960.
+Package pdftex.def Info: images/header.png  used on input line 954.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 960.
+Package pdftex.def Info: images/footer.png  used on input line 954.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [32]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 970.
+Package pdftex.def Info: images/header.png  used on input line 964.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 970.
+Package pdftex.def Info: images/footer.png  used on input line 964.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [33]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 978.
+Package pdftex.def Info: images/header.png  used on input line 972.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 978.
+Package pdftex.def Info: images/footer.png  used on input line 972.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [34]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 983.
+Package pdftex.def Info: images/header.png  used on input line 977.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 983.
+Package pdftex.def Info: images/footer.png  used on input line 977.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [35]
 Chapter 6.
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 995.
+e 989.
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 995.
+(Font)              scaled to size 12.0pt on input line 989.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1003.
+Package pdftex.def Info: images/header.png  used on input line 997.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1003.
+Package pdftex.def Info: images/footer.png  used on input line 997.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [36
 
 {c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1026.
+Package pdftex.def Info: images/header.png  used on input line 1020.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1026.
+Package pdftex.def Info: images/footer.png  used on input line 1020.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [37]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1047.
+Package pdftex.def Info: images/header.png  used on input line 1041.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1047.
+Package pdftex.def Info: images/footer.png  used on input line 1041.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [38]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1071.
+Package pdftex.def Info: images/header.png  used on input line 1065.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1071.
+Package pdftex.def Info: images/footer.png  used on input line 1065.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [39]
 Chapter 7.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1094.
+Package pdftex.def Info: images/header.png  used on input line 1088.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1094.
+Package pdftex.def Info: images/footer.png  used on input line 1088.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [40
 
 ]
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1114.
+(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1114.
+(pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
+ [41]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
 Package pdftex.def Info: images/header.png  used on input line 1120.
@@ -1704,17 +1658,19 @@ File: images/footer.png Graphic file (type png)
 <use images/footer.png>
 Package pdftex.def Info: images/footer.png  used on input line 1120.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [41]
+ [42]
+Chapter 8.
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1126.
+Package pdftex.def Info: images/header.png  used on input line 1131.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1126.
+Package pdftex.def Info: images/footer.png  used on input line 1131.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
- [42]
-Chapter 8.
+[43
+
+]
 File: images/header.png Graphic file (type png)
 <use images/header.png>
 Package pdftex.def Info: images/header.png  used on input line 1137.
@@ -1723,33 +1679,22 @@ File: images/footer.png Graphic file (type png)
 <use images/footer.png>
 Package pdftex.def Info: images/footer.png  used on input line 1137.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
-[43
-
-]
-File: images/header.png Graphic file (type png)
-<use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1143.
-(pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
-File: images/footer.png Graphic file (type png)
-<use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1143.
-(pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [44]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 1146.
+(Font)              scaled to size 12.0pt on input line 1140.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1164--1165
+Underfull \hbox (badness 10000) in paragraph at lines 1158--1159
 []\T1/ntxtlf/m/n/12 Stratosphere Lab-o-ra-tory. (2020). IoT-23 Dataset. Avail-a
 ble at:
  []
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1173.
+Package pdftex.def Info: images/header.png  used on input line 1167.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1173.
+Package pdftex.def Info: images/footer.png  used on input line 1167.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [45
 
@@ -1759,35 +1704,35 @@ Appendix A.
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-1177.
+1171.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1177.
+(Font)              scaled to size 12.0pt on input line 1171.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1177.
+(Font)              scaled to size 10.95pt on input line 1171.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1178.
+(Font)              scaled to size 10.95pt on input line 1172.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 1178.
+(Font)              scaled to size 6.0pt on input line 1172.
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 1
-178.
+172.
 
 (c:/texlive/2025/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 1178.
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 1172.
 
 File: images/header.png Graphic file (type png)
 <use images/header.png>
-Package pdftex.def Info: images/header.png  used on input line 1200.
+Package pdftex.def Info: images/header.png  used on input line 1194.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 File: images/footer.png Graphic file (type png)
 <use images/footer.png>
-Package pdftex.def Info: images/footer.png  used on input line 1200.
+Package pdftex.def Info: images/footer.png  used on input line 1194.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
  [46
 
@@ -1800,10 +1745,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E9C983E9B7482DF873110772DEF34FA7;26066.
  ) 
 Here is how much of TeX's memory you used:
- 19915 strings out of 467533
- 300980 string characters out of 5423668
- 1048023 words of memory out of 5000000
- 48286 multiletter control sequences out of 15000+600000
+ 19906 strings out of 467533
+ 300601 string characters out of 5423668
+ 1047965 words of memory out of 5000000
+ 48277 multiletter control sequences out of 15000+600000
  683048 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,17n,117p,1782b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1815,10 +1760,10 @@ e/tfrupee.pfb><c:/texlive/2025/texmf-dist/fonts/type1/public/newtx/txsys.pfb><c
 :/texlive/2025/texmf-dist/fonts/type1/public/newtx/ztmb.pfb><c:/texlive/2025/te
 xmf-dist/fonts/type1/public/newtx/ztmr.pfb><c:/texlive/2025/texmf-dist/fonts/ty
 pe1/public/newtx/ztmri.pfb>
-Output written on logs/main.pdf (75 pages, 787468 bytes).
+Output written on logs/main.pdf (74 pages, 481629 bytes).
 PDF statistics:
- 1161 PDF objects out of 1200 (max. 8388607)
- 1048 compressed objects within 11 object streams
+ 1156 PDF objects out of 1200 (max. 8388607)
+ 1046 compressed objects within 11 object streams
  227 named destinations out of 1000 (max. 500000)
- 1128 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1123 words of extra memory for PDF output out of 10000 (max. 10000000)
 
