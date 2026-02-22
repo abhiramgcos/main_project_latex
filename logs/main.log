@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2026.2.22)  22 FEB 2026 20:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -959,64 +959,64 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip112
 )
-Package hyperref Info: Option `colorlinks' set `true' on input line 138.
+Package hyperref Info: Option `colorlinks' set `true' on input line 139.
 LaTeX Font Info:    Trying to load font information for T1+ntxtlf on input line
- 140.
+ 141.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtlf.fd
 File: t1ntxtlf.fd 2021/05/24 v1.1 font definition file for T1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 140.
+(Font)              scaled to size 12.0pt on input line 141.
  (./main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 140.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 141.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 140.
+ 141.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-140.
+141.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 140.
+ 141.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 140.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 140.
+e 141.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 140.
-LaTeX Font Info:    ... okay on input line 140.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1076,8 +1076,8 @@ e
 ))
 \c@mv@tabular=\count370
 \c@mv@boldtabular=\count371
-LaTeX Info: Command `\dddot' is already robust on input line 140.
-LaTeX Info: Command `\ddddot' is already robust on input line 140.
+LaTeX Info: Command `\dddot' is already robust on input line 141.
+LaTeX Info: Command `\ddddot' is already robust on input line 141.
 \c@lstlisting=\count372
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: hyperref package is loaded.
@@ -1087,107 +1087,107 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: End \AtBeginDocument code.
-Package hyperref Info: Link coloring ON on input line 140.
+Package hyperref Info: Link coloring ON on input line 141.
  (./main.out)
 (./main.out)
 \@outlinefile=\write4
 \openout4 = `main.out'.
 
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 20.74pt on input line 147.
+(Font)              scaled to size 20.74pt on input line 148.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 147.
+(Font)              scaled to size 20.74pt on input line 148.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 152.
+(Font)              scaled to size 17.28pt on input line 153.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 156.
+(Font)              scaled to size 14.4pt on input line 157.
 LaTeX Font Info:    Trying to load font information for OT1+minntx on input lin
-e 160.
+e 161.
  (c:/texlive/2025/texmf-dist/tex/latex/newtx/ot1minntx.fd
 File: ot1minntx.fd 2023/09/09 v1.1 font definition file for OT1/minntx
 )
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `OT1/minntx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `OML/ntxmi/m/it' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `LMS/ntxsy/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `LMX/ntxexx/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-160.
+161.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2024/04/09 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `U/ntxmia/m/it' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-160.
+161.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2023/08/16 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
+(Font)              scaled to size 12.0pt on input line 161.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
+(Font)              scaled to size 8.8pt on input line 161.
 LaTeX Font Info:    Font shape `U/ntxsym/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-160.
+161.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
-LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
-LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
-LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 12.0pt on input line 160.
-LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 8.8pt on input line 160.
-LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
-(Font)              scaled to size 6.6pt on input line 160.
-LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
 (Font)              scaled to size 12.0pt on input line 161.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 8.8pt on input line 161.
+LaTeX Font Info:    Font shape `U/ntxsyc/m/n' will be
+(Font)              scaled to size 6.6pt on input line 161.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 12.0pt on input line 161.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 8.8pt on input line 161.
+LaTeX Font Info:    Font shape `U/ntxexa/m/n' will be
+(Font)              scaled to size 6.6pt on input line 161.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 14.4pt on input line 179.
+(Font)              scaled to size 12.0pt on input line 162.
+LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
+(Font)              scaled to size 14.4pt on input line 180.
  [1
 
 {c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{c:/texlive/2025/
 texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 24.88pt on input line 195.
+(Font)              scaled to size 24.88pt on input line 196.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 24.88pt on input line 195.
-<header.png, id=568, 205.641pt x 56.502pt>
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 236.
+(Font)              scaled to size 24.88pt on input line 196.
+<images/header.png, id=568, 205.641pt x 56.502pt>
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 237.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1202,20 +1202,20 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.236 	\chapter
+l.237 	\chapter
                *{DECLARATION}
-<providence_logo_background.png, id=570, 845.3181pt x 597.9138pt>
-File: providence_logo_background.png Graphic file (type png)
-<use providence_logo_background.png>
-Package pdftex.def Info: providence_logo_background.png  used on input line 236
-.
+<images/providence_logo_background.png, id=570, 845.3181pt x 597.9138pt>
+File: images/providence_logo_background.png Graphic file (type png)
+<use images/providence_logo_background.png>
+Package pdftex.def Info: images/providence_logo_background.png  used on input l
+ine 237.
 (pdftex.def)             Requested size: 597.50787pt x 422.63322pt.
  [1
 
- <./providence_logo_background.png> <./header.png>]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 273.
+ <./images/providence_logo_background.png> <./images/header.png>]
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 274.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1225,17 +1225,17 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: providence_logo_background.png Graphic file (type png)
-<use providence_logo_background.png>
-Package pdftex.def Info: providence_logo_background.png  used on input line 273
-.
+File: images/providence_logo_background.png Graphic file (type png)
+<use images/providence_logo_background.png>
+Package pdftex.def Info: images/providence_logo_background.png  used on input l
+ine 274.
 (pdftex.def)             Requested size: 597.50787pt x 422.63322pt.
 [1
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 299.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 300.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1248,9 +1248,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 [2
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 313.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 314.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1263,9 +1263,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 [3
 
 ] (./main.toc
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 26.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 26.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1275,17 +1275,17 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-<footer.png, id=617, 597.6729pt x 24.09pt>
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 26.
+<images/footer.png, id=617, 597.6729pt x 24.09pt>
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 26.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [4
 
- <./footer.png>]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 63.
+ <./images/footer.png>]
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 63.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1295,14 +1295,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 63.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 63.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [5]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 101.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 101.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1312,14 +1312,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 101.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 101.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [6]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 138.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 138.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1329,17 +1329,17 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 138.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 138.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [7])
 \tf@toc=\write5
 \openout5 = `main.toc'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 317.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 318.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1349,17 +1349,17 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 317.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 318.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [8] (./main.lof)
 \tf@lof=\write6
 \openout6 = `main.lof'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 322.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 323.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1369,9 +1369,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 322.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 323.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [9
 
@@ -1379,9 +1379,9 @@ Package pdftex.def Info: footer.png  used on input line 322.
 \tf@lot=\write7
 \openout7 = `main.lot'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 327.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 328.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1391,192 +1391,192 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 327.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 328.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [10
 
 ]
 
-LaTeX Warning: Hyper reference `acro:AI' on page xi undefined on input line 332
+LaTeX Warning: Hyper reference `acro:AI' on page xi undefined on input line 333
 .
 
 
-LaTeX Warning: Hyper reference `acro:AI' on page xi undefined on input line 332
+LaTeX Warning: Hyper reference `acro:AI' on page xi undefined on input line 333
 .
 
 
 LaTeX Warning: Hyper reference `acro:ANN' on page xi undefined on input line 33
-3.
+4.
 
 
 LaTeX Warning: Hyper reference `acro:ANN' on page xi undefined on input line 33
-3.
-
-
-LaTeX Warning: Hyper reference `acro:APK' on page xi undefined on input line 33
 4.
 
 
 LaTeX Warning: Hyper reference `acro:APK' on page xi undefined on input line 33
-4.
+5.
 
 
-LaTeX Warning: Hyper reference `acro:ARP' on page xi undefined on input line 33
+LaTeX Warning: Hyper reference `acro:APK' on page xi undefined on input line 33
 5.
 
 
 LaTeX Warning: Hyper reference `acro:ARP' on page xi undefined on input line 33
+6.
+
+
+LaTeX Warning: Hyper reference `acro:ARP' on page xi undefined on input line 33
+6.
+
+
+LaTeX Warning: Hyper reference `acro:CNN' on page xi undefined on input line 33
+7.
+
+
+LaTeX Warning: Hyper reference `acro:CNN' on page xi undefined on input line 33
+7.
+
+
+LaTeX Warning: Hyper reference `acro:COCOMO' on page xi undefined on input line
+ 338.
+
+
+LaTeX Warning: Hyper reference `acro:COCOMO' on page xi undefined on input line
+ 338.
+
+
+LaTeX Warning: Hyper reference `acro:CPU' on page xi undefined on input line 33
+9.
+
+
+LaTeX Warning: Hyper reference `acro:CPU' on page xi undefined on input line 33
+9.
+
+
+LaTeX Warning: Hyper reference `acro:CVE' on page xi undefined on input line 34
+0.
+
+
+LaTeX Warning: Hyper reference `acro:CVE' on page xi undefined on input line 34
+0.
+
+
+LaTeX Warning: Hyper reference `acro:DBN' on page xi undefined on input line 34
+1.
+
+
+LaTeX Warning: Hyper reference `acro:DBN' on page xi undefined on input line 34
+1.
+
+
+LaTeX Warning: Hyper reference `acro:DDoS' on page xi undefined on input line 3
+42.
+
+
+LaTeX Warning: Hyper reference `acro:DDoS' on page xi undefined on input line 3
+42.
+
+
+LaTeX Warning: Hyper reference `acro:DL' on page xi undefined on input line 343
+.
+
+
+LaTeX Warning: Hyper reference `acro:DL' on page xi undefined on input line 343
+.
+
+
+LaTeX Warning: Hyper reference `acro:DNN' on page xi undefined on input line 34
+4.
+
+
+LaTeX Warning: Hyper reference `acro:DNN' on page xi undefined on input line 34
+4.
+
+
+LaTeX Warning: Hyper reference `acro:DNS' on page xi undefined on input line 34
 5.
 
 
-LaTeX Warning: Hyper reference `acro:CNN' on page xi undefined on input line 33
-6.
-
-
-LaTeX Warning: Hyper reference `acro:CNN' on page xi undefined on input line 33
-6.
-
-
-LaTeX Warning: Hyper reference `acro:COCOMO' on page xi undefined on input line
- 337.
-
-
-LaTeX Warning: Hyper reference `acro:COCOMO' on page xi undefined on input line
- 337.
-
-
-LaTeX Warning: Hyper reference `acro:CPU' on page xi undefined on input line 33
-8.
-
-
-LaTeX Warning: Hyper reference `acro:CPU' on page xi undefined on input line 33
-8.
-
-
-LaTeX Warning: Hyper reference `acro:CVE' on page xi undefined on input line 33
-9.
-
-
-LaTeX Warning: Hyper reference `acro:CVE' on page xi undefined on input line 33
-9.
-
-
-LaTeX Warning: Hyper reference `acro:DBN' on page xi undefined on input line 34
-0.
-
-
-LaTeX Warning: Hyper reference `acro:DBN' on page xi undefined on input line 34
-0.
-
-
-LaTeX Warning: Hyper reference `acro:DDoS' on page xi undefined on input line 3
-41.
-
-
-LaTeX Warning: Hyper reference `acro:DDoS' on page xi undefined on input line 3
-41.
-
-
-LaTeX Warning: Hyper reference `acro:DL' on page xi undefined on input line 342
-.
-
-
-LaTeX Warning: Hyper reference `acro:DL' on page xi undefined on input line 342
-.
-
-
-LaTeX Warning: Hyper reference `acro:DNN' on page xi undefined on input line 34
-3.
-
-
-LaTeX Warning: Hyper reference `acro:DNN' on page xi undefined on input line 34
-3.
-
-
 LaTeX Warning: Hyper reference `acro:DNS' on page xi undefined on input line 34
-4.
-
-
-LaTeX Warning: Hyper reference `acro:DNS' on page xi undefined on input line 34
-4.
+5.
 
 
 LaTeX Warning: Hyper reference `acro:FOSS' on page xi undefined on input line 3
-45.
+46.
 
 
 LaTeX Warning: Hyper reference `acro:FOSS' on page xi undefined on input line 3
-45.
+46.
 
 
 LaTeX Warning: Hyper reference `acro:FTP' on page xi undefined on input line 34
-6.
+7.
 
 
 LaTeX Warning: Hyper reference `acro:FTP' on page xi undefined on input line 34
-6.
-
-
-LaTeX Warning: Hyper reference `acro:GAN' on page xi undefined on input line 34
 7.
 
 
 LaTeX Warning: Hyper reference `acro:GAN' on page xi undefined on input line 34
-7.
+8.
 
 
-LaTeX Warning: Hyper reference `acro:GPU' on page xi undefined on input line 34
+LaTeX Warning: Hyper reference `acro:GAN' on page xi undefined on input line 34
 8.
 
 
 LaTeX Warning: Hyper reference `acro:GPU' on page xi undefined on input line 34
-8.
+9.
+
+
+LaTeX Warning: Hyper reference `acro:GPU' on page xi undefined on input line 34
+9.
 
 
 LaTeX Warning: Hyper reference `acro:HTTP' on page xi undefined on input line 3
-49.
+50.
 
 
 LaTeX Warning: Hyper reference `acro:HTTP' on page xi undefined on input line 3
-49.
+50.
 
 
 LaTeX Warning: Hyper reference `acro:HTTPS' on page xi undefined on input line 
-350.
+351.
 
 
 LaTeX Warning: Hyper reference `acro:HTTPS' on page xi undefined on input line 
-350.
+351.
 
 
 LaTeX Warning: Hyper reference `acro:ICMP' on page xi undefined on input line 3
-51.
+52.
 
 
 LaTeX Warning: Hyper reference `acro:ICMP' on page xi undefined on input line 3
-51.
+52.
 
 
 LaTeX Warning: Hyper reference `acro:IDE' on page xi undefined on input line 35
-2.
+3.
 
 
 LaTeX Warning: Hyper reference `acro:IDE' on page xi undefined on input line 35
-2.
-
-
-LaTeX Warning: Hyper reference `acro:IoT' on page xi undefined on input line 35
 3.
 
 
 LaTeX Warning: Hyper reference `acro:IoT' on page xi undefined on input line 35
-3.
+4.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 354.
+
+LaTeX Warning: Hyper reference `acro:IoT' on page xi undefined on input line 35
+4.
+
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 355.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -1585,9 +1585,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 354.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 355.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [11
 
@@ -1595,215 +1595,215 @@ Package pdftex.def Info: footer.png  used on input line 354.
 ]
 
 LaTeX Warning: Hyper reference `acro:IP' on page xii undefined on input line 35
-4.
+5.
 
 
 LaTeX Warning: Hyper reference `acro:IP' on page xii undefined on input line 35
+5.
+
+
+LaTeX Warning: Hyper reference `acro:JSON' on page xii undefined on input line 
+356.
+
+
+LaTeX Warning: Hyper reference `acro:JSON' on page xii undefined on input line 
+356.
+
+
+LaTeX Warning: Hyper reference `acro:JWT' on page xii undefined on input line 3
+57.
+
+
+LaTeX Warning: Hyper reference `acro:JWT' on page xii undefined on input line 3
+57.
+
+
+LaTeX Warning: Hyper reference `acro:KLOC' on page xii undefined on input line 
+358.
+
+
+LaTeX Warning: Hyper reference `acro:KLOC' on page xii undefined on input line 
+358.
+
+
+LaTeX Warning: Hyper reference `acro:KNN' on page xii undefined on input line 3
+59.
+
+
+LaTeX Warning: Hyper reference `acro:KNN' on page xii undefined on input line 3
+59.
+
+
+LaTeX Warning: Hyper reference `acro:LAN' on page xii undefined on input line 3
+60.
+
+
+LaTeX Warning: Hyper reference `acro:LAN' on page xii undefined on input line 3
+60.
+
+
+LaTeX Warning: Hyper reference `acro:LSTM' on page xii undefined on input line 
+361.
+
+
+LaTeX Warning: Hyper reference `acro:LSTM' on page xii undefined on input line 
+361.
+
+
+LaTeX Warning: Hyper reference `acro:MAC' on page xii undefined on input line 3
+62.
+
+
+LaTeX Warning: Hyper reference `acro:MAC' on page xii undefined on input line 3
+62.
+
+
+LaTeX Warning: Hyper reference `acro:MDLC' on page xii undefined on input line 
+363.
+
+
+LaTeX Warning: Hyper reference `acro:MDLC' on page xii undefined on input line 
+363.
+
+
+LaTeX Warning: Hyper reference `acro:ML' on page xii undefined on input line 36
 4.
 
 
-LaTeX Warning: Hyper reference `acro:JSON' on page xii undefined on input line 
-355.
-
-
-LaTeX Warning: Hyper reference `acro:JSON' on page xii undefined on input line 
-355.
-
-
-LaTeX Warning: Hyper reference `acro:JWT' on page xii undefined on input line 3
-56.
-
-
-LaTeX Warning: Hyper reference `acro:JWT' on page xii undefined on input line 3
-56.
-
-
-LaTeX Warning: Hyper reference `acro:KLOC' on page xii undefined on input line 
-357.
-
-
-LaTeX Warning: Hyper reference `acro:KLOC' on page xii undefined on input line 
-357.
-
-
-LaTeX Warning: Hyper reference `acro:KNN' on page xii undefined on input line 3
-58.
-
-
-LaTeX Warning: Hyper reference `acro:KNN' on page xii undefined on input line 3
-58.
-
-
-LaTeX Warning: Hyper reference `acro:LAN' on page xii undefined on input line 3
-59.
-
-
-LaTeX Warning: Hyper reference `acro:LAN' on page xii undefined on input line 3
-59.
-
-
-LaTeX Warning: Hyper reference `acro:LSTM' on page xii undefined on input line 
-360.
-
-
-LaTeX Warning: Hyper reference `acro:LSTM' on page xii undefined on input line 
-360.
-
-
-LaTeX Warning: Hyper reference `acro:MAC' on page xii undefined on input line 3
-61.
-
-
-LaTeX Warning: Hyper reference `acro:MAC' on page xii undefined on input line 3
-61.
-
-
-LaTeX Warning: Hyper reference `acro:MDLC' on page xii undefined on input line 
-362.
-
-
-LaTeX Warning: Hyper reference `acro:MDLC' on page xii undefined on input line 
-362.
-
-
 LaTeX Warning: Hyper reference `acro:ML' on page xii undefined on input line 36
-3.
-
-
-LaTeX Warning: Hyper reference `acro:ML' on page xii undefined on input line 36
-3.
+4.
 
 
 LaTeX Warning: Hyper reference `acro:MQTT' on page xii undefined on input line 
-364.
+365.
 
 
 LaTeX Warning: Hyper reference `acro:MQTT' on page xii undefined on input line 
-364.
+365.
 
 
 LaTeX Warning: Hyper reference `acro:NFR' on page xii undefined on input line 3
-65.
+66.
 
 
 LaTeX Warning: Hyper reference `acro:NFR' on page xii undefined on input line 3
-65.
-
-
-LaTeX Warning: Hyper reference `acro:NLP' on page xii undefined on input line 3
 66.
 
 
 LaTeX Warning: Hyper reference `acro:NLP' on page xii undefined on input line 3
-66.
+67.
+
+
+LaTeX Warning: Hyper reference `acro:NLP' on page xii undefined on input line 3
+67.
 
 
 LaTeX Warning: Hyper reference `acro:NVRAM' on page xii undefined on input line
- 367.
+ 368.
 
 
 LaTeX Warning: Hyper reference `acro:NVRAM' on page xii undefined on input line
- 367.
+ 368.
 
 
 LaTeX Warning: Hyper reference `acro:OTA' on page xii undefined on input line 3
-68.
+69.
 
 
 LaTeX Warning: Hyper reference `acro:OTA' on page xii undefined on input line 3
-68.
+69.
 
 
 LaTeX Warning: Hyper reference `acro:QEMU' on page xii undefined on input line 
-369.
+370.
 
 
 LaTeX Warning: Hyper reference `acro:QEMU' on page xii undefined on input line 
-369.
+370.
 
 
 LaTeX Warning: Hyper reference `acro:RAM' on page xii undefined on input line 3
-70.
+71.
 
 
 LaTeX Warning: Hyper reference `acro:RAM' on page xii undefined on input line 3
-70.
+71.
 
 
 LaTeX Warning: Hyper reference `acro:ReLU' on page xii undefined on input line 
-371.
+372.
 
 
 LaTeX Warning: Hyper reference `acro:ReLU' on page xii undefined on input line 
-371.
-
-
-LaTeX Warning: Hyper reference `acro:REST' on page xii undefined on input line 
 372.
 
 
 LaTeX Warning: Hyper reference `acro:REST' on page xii undefined on input line 
-372.
+373.
+
+
+LaTeX Warning: Hyper reference `acro:REST' on page xii undefined on input line 
+373.
 
 
 LaTeX Warning: Hyper reference `acro:RNN' on page xii undefined on input line 3
-73.
+74.
 
 
 LaTeX Warning: Hyper reference `acro:RNN' on page xii undefined on input line 3
-73.
-
-
-LaTeX Warning: Hyper reference `acro:ROC' on page xii undefined on input line 3
 74.
 
 
 LaTeX Warning: Hyper reference `acro:ROC' on page xii undefined on input line 3
-74.
+75.
+
+
+LaTeX Warning: Hyper reference `acro:ROC' on page xii undefined on input line 3
+75.
 
 
 LaTeX Warning: Hyper reference `acro:SDLC' on page xii undefined on input line 
-375.
+376.
 
 
 LaTeX Warning: Hyper reference `acro:SDLC' on page xii undefined on input line 
-375.
+376.
 
 
 LaTeX Warning: Hyper reference `acro:SSH' on page xii undefined on input line 3
-76.
+77.
 
 
 LaTeX Warning: Hyper reference `acro:SSH' on page xii undefined on input line 3
-76.
-
-
-LaTeX Warning: Hyper reference `acro:SSL' on page xii undefined on input line 3
 77.
 
 
 LaTeX Warning: Hyper reference `acro:SSL' on page xii undefined on input line 3
-77.
+78.
 
 
-LaTeX Warning: Hyper reference `acro:SVM' on page xii undefined on input line 3
+LaTeX Warning: Hyper reference `acro:SSL' on page xii undefined on input line 3
 78.
 
 
 LaTeX Warning: Hyper reference `acro:SVM' on page xii undefined on input line 3
-78.
+79.
 
 
-LaTeX Warning: Hyper reference `acro:TCP' on page xii undefined on input line 3
+LaTeX Warning: Hyper reference `acro:SVM' on page xii undefined on input line 3
 79.
 
 
 LaTeX Warning: Hyper reference `acro:TCP' on page xii undefined on input line 3
-79.
+80.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 380.
+
+LaTeX Warning: Hyper reference `acro:TCP' on page xii undefined on input line 3
+80.
+
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 381.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -1812,70 +1812,70 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 380.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 381.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [12]
 
 LaTeX Warning: Hyper reference `acro:TLS' on page xiii undefined on input line 
-380.
+381.
 
 
 LaTeX Warning: Hyper reference `acro:TLS' on page xiii undefined on input line 
-380.
-
-
-LaTeX Warning: Hyper reference `acro:UDP' on page xiii undefined on input line 
 381.
 
 
 LaTeX Warning: Hyper reference `acro:UDP' on page xiii undefined on input line 
-381.
+382.
+
+
+LaTeX Warning: Hyper reference `acro:UDP' on page xiii undefined on input line 
+382.
 
 
 LaTeX Warning: Hyper reference `acro:UI' on page xiii undefined on input line 3
-82.
+83.
 
 
 LaTeX Warning: Hyper reference `acro:UI' on page xiii undefined on input line 3
-82.
+83.
 
 
 LaTeX Warning: Hyper reference `acro:UML' on page xiii undefined on input line 
-383.
+384.
 
 
 LaTeX Warning: Hyper reference `acro:UML' on page xiii undefined on input line 
-383.
-
-
-LaTeX Warning: Hyper reference `acro:URL' on page xiii undefined on input line 
 384.
 
 
 LaTeX Warning: Hyper reference `acro:URL' on page xiii undefined on input line 
-384.
+385.
+
+
+LaTeX Warning: Hyper reference `acro:URL' on page xiii undefined on input line 
+385.
 
 
 LaTeX Warning: Hyper reference `acro:VM' on page xiii undefined on input line 3
-85.
+86.
 
 
 LaTeX Warning: Hyper reference `acro:VM' on page xiii undefined on input line 3
-85.
+86.
 
 
 LaTeX Warning: Hyper reference `acro:VPN' on page xiii undefined on input line 
-386.
+387.
 
 
 LaTeX Warning: Hyper reference `acro:VPN' on page xiii undefined on input line 
-386.
+387.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 390.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 391.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -1884,17 +1884,17 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 390.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 391.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [13]
 Chapter 1.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 17.28pt on input line 397.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 405.
+(Font)              scaled to size 17.28pt on input line 398.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 406.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -1908,14 +1908,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.405 	
+l.406 	
         [1
 
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 420.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 421.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1926,9 +1926,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
 [2]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 434.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 435.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1939,9 +1939,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
 [3]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 449.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 450.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1951,14 +1951,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 449.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 450.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [4]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 468.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 469.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1973,11 +1973,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.468 \chapter
+l.469 \chapter
               *{ACKNOWLEDGEMENTS} [1]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 494.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 495.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -1992,13 +1992,13 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.494 \chapter
+l.495 \chapter
               *{ABSTRACT} [2
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 508.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 509.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -2013,7 +2013,7 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.iii}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.508 \cleardoublepage
+l.509 \cleardoublepage
                        % Ensures ToC starts on an odd page, applying fancy s...
 [3
 
@@ -2021,9 +2021,9 @@ l.508 \cleardoublepage
 \tf@toc=\write8
 \openout8 = `main.toc'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 512.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 513.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -2033,25 +2033,25 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 512.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 513.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.iv}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.512 \cleardoublepage
+l.513 \cleardoublepage
                        [4
 
 ] (./main.lof)
 \tf@lof=\write9
 \openout9 = `main.lof'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 517.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 518.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -2061,25 +2061,25 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 517.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 518.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.v}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.517 \cleardoublepage
+l.518 \cleardoublepage
                        [5
 
 ] (./main.lot)
 \tf@lot=\write10
 \openout10 = `main.lot'.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 522.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 523.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -2089,16 +2089,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 522.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 523.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.vi}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.522 \cleardoublepage
+l.523 \cleardoublepage
                        [6
 
 ]
@@ -2106,334 +2106,334 @@ pdfTeX warning (ext4): destination with the same identifier (name{AI}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.527 	\acro{AI}{Artificial Intelligence}
+l.528 	\acro{AI}{Artificial Intelligence}
                                          
 
 LaTeX Warning: Hyper reference `acro:AI' on page vii undefined on input line 52
-7.
+8.
 
 
 LaTeX Warning: Hyper reference `acro:AI' on page vii undefined on input line 52
-7.
+8.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ANN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.528 	\acro{ANN}{Artificial Neural Network}
+l.529 	\acro{ANN}{Artificial Neural Network}
                                             
 
 LaTeX Warning: Hyper reference `acro:ANN' on page vii undefined on input line 5
-28.
+29.
 
 
 LaTeX Warning: Hyper reference `acro:ANN' on page vii undefined on input line 5
-28.
+29.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{APK}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.529 	\acro{APK}{Android Package Kit}
+l.530 	\acro{APK}{Android Package Kit}
                                       
 
 LaTeX Warning: Hyper reference `acro:APK' on page vii undefined on input line 5
-29.
+30.
 
 
 LaTeX Warning: Hyper reference `acro:APK' on page vii undefined on input line 5
-29.
+30.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ARP}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.530 	\acro{ARP}{Address Resolution Protocol}
+l.531 	\acro{ARP}{Address Resolution Protocol}
                                               
 
 LaTeX Warning: Hyper reference `acro:ARP' on page vii undefined on input line 5
-30.
+31.
 
 
 LaTeX Warning: Hyper reference `acro:ARP' on page vii undefined on input line 5
-30.
+31.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{CNN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.531 	\acro{CNN}{Convolutional Neural Network}
+l.532 	\acro{CNN}{Convolutional Neural Network}
                                                
 
 LaTeX Warning: Hyper reference `acro:CNN' on page vii undefined on input line 5
-31.
+32.
 
 
 LaTeX Warning: Hyper reference `acro:CNN' on page vii undefined on input line 5
-31.
+32.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{COCOMO}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.532 	\acro{COCOMO}{Constructive Cost Model}
+l.533 	\acro{COCOMO}{Constructive Cost Model}
                                              
 
 LaTeX Warning: Hyper reference `acro:COCOMO' on page vii undefined on input lin
-e 532.
+e 533.
 
 
 LaTeX Warning: Hyper reference `acro:COCOMO' on page vii undefined on input lin
-e 532.
+e 533.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{CPU}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.533 	\acro{CPU}{Central Processing Unit}
+l.534 	\acro{CPU}{Central Processing Unit}
                                           
 
 LaTeX Warning: Hyper reference `acro:CPU' on page vii undefined on input line 5
-33.
+34.
 
 
 LaTeX Warning: Hyper reference `acro:CPU' on page vii undefined on input line 5
-33.
+34.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{CVE}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.534 ...VE}{Common Vulnerabilities and Exposures}
+l.535 ...VE}{Common Vulnerabilities and Exposures}
                                                   
 
 LaTeX Warning: Hyper reference `acro:CVE' on page vii undefined on input line 5
-34.
+35.
 
 
 LaTeX Warning: Hyper reference `acro:CVE' on page vii undefined on input line 5
-34.
+35.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{DBN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.535 	\acro{DBN}{Deep Belief Network}
+l.536 	\acro{DBN}{Deep Belief Network}
                                       
 
 LaTeX Warning: Hyper reference `acro:DBN' on page vii undefined on input line 5
-35.
+36.
 
 
 LaTeX Warning: Hyper reference `acro:DBN' on page vii undefined on input line 5
-35.
+36.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{DDoS}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.536 	\acro{DDoS}{Distributed Denial of Service}
+l.537 	\acro{DDoS}{Distributed Denial of Service}
                                                  
 
 LaTeX Warning: Hyper reference `acro:DDoS' on page vii undefined on input line 
-536.
+537.
 
 
 LaTeX Warning: Hyper reference `acro:DDoS' on page vii undefined on input line 
-536.
+537.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{DL}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.537 	\acro{DL}{Deep Learning}
+l.538 	\acro{DL}{Deep Learning}
                                
 
 LaTeX Warning: Hyper reference `acro:DL' on page vii undefined on input line 53
-7.
+8.
 
 
 LaTeX Warning: Hyper reference `acro:DL' on page vii undefined on input line 53
-7.
+8.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{DNN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.538 	\acro{DNN}{Deep Neural Network}
+l.539 	\acro{DNN}{Deep Neural Network}
                                       
 
 LaTeX Warning: Hyper reference `acro:DNN' on page vii undefined on input line 5
-38.
+39.
 
 
 LaTeX Warning: Hyper reference `acro:DNN' on page vii undefined on input line 5
-38.
+39.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{DNS}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.539 	\acro{DNS}{Domain Name System}
+l.540 	\acro{DNS}{Domain Name System}
                                      
 
 LaTeX Warning: Hyper reference `acro:DNS' on page vii undefined on input line 5
-39.
+40.
 
 
 LaTeX Warning: Hyper reference `acro:DNS' on page vii undefined on input line 5
-39.
+40.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{FOSS}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.540 	\acro{FOSS}{Free and Open Source Software}
+l.541 	\acro{FOSS}{Free and Open Source Software}
                                                  
 
 LaTeX Warning: Hyper reference `acro:FOSS' on page vii undefined on input line 
-540.
+541.
 
 
 LaTeX Warning: Hyper reference `acro:FOSS' on page vii undefined on input line 
-540.
+541.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{FTP}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.541 	\acro{FTP}{File Transfer Protocol}
+l.542 	\acro{FTP}{File Transfer Protocol}
                                          
 
 LaTeX Warning: Hyper reference `acro:FTP' on page vii undefined on input line 5
-41.
+42.
 
 
 LaTeX Warning: Hyper reference `acro:FTP' on page vii undefined on input line 5
-41.
+42.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{GAN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.542 	\acro{GAN}{Generative Adversarial Network}
+l.543 	\acro{GAN}{Generative Adversarial Network}
                                                  
 
 LaTeX Warning: Hyper reference `acro:GAN' on page vii undefined on input line 5
-42.
+43.
 
 
 LaTeX Warning: Hyper reference `acro:GAN' on page vii undefined on input line 5
-42.
+43.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{GPU}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.543 	\acro{GPU}{Graphics Processing Unit}
+l.544 	\acro{GPU}{Graphics Processing Unit}
                                            
 
 LaTeX Warning: Hyper reference `acro:GPU' on page vii undefined on input line 5
-43.
+44.
 
 
 LaTeX Warning: Hyper reference `acro:GPU' on page vii undefined on input line 5
-43.
+44.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{HTTP}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.544 	\acro{HTTP}{Hypertext Transfer Protocol}
+l.545 	\acro{HTTP}{Hypertext Transfer Protocol}
                                                
 
 LaTeX Warning: Hyper reference `acro:HTTP' on page vii undefined on input line 
-544.
+545.
 
 
 LaTeX Warning: Hyper reference `acro:HTTP' on page vii undefined on input line 
-544.
+545.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{HTTPS}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.545 	\acro{HTTPS}{HTTP Secure}
+l.546 	\acro{HTTPS}{HTTP Secure}
                                 
 
 LaTeX Warning: Hyper reference `acro:HTTPS' on page vii undefined on input line
- 545.
+ 546.
 
 
 LaTeX Warning: Hyper reference `acro:HTTPS' on page vii undefined on input line
- 545.
+ 546.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ICMP}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.546 ...{ICMP}{Internet Control Message Protocol}
+l.547 ...{ICMP}{Internet Control Message Protocol}
                                                   
 
 LaTeX Warning: Hyper reference `acro:ICMP' on page vii undefined on input line 
-546.
+547.
 
 
 LaTeX Warning: Hyper reference `acro:ICMP' on page vii undefined on input line 
-546.
+547.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{IDE}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.547 ...{IDE}{Integrated Development Environment}
+l.548 ...{IDE}{Integrated Development Environment}
                                                   
 
 LaTeX Warning: Hyper reference `acro:IDE' on page vii undefined on input line 5
-47.
+48.
 
 
 LaTeX Warning: Hyper reference `acro:IDE' on page vii undefined on input line 5
-47.
+48.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{IoT}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.548 	\acro{IoT}{Internet of Things}
+l.549 	\acro{IoT}{Internet of Things}
                                      
 
 LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 5
-48.
+49.
 
 
 LaTeX Warning: Hyper reference `acro:IoT' on page vii undefined on input line 5
-48.
+49.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 549.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 550.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -2442,16 +2442,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 549.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 550.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.vii}) ha
 s been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.549 	\acro{IP}{Internet Protocol}
+l.550 	\acro{IP}{Internet Protocol}
                                     [7
 
 
@@ -2460,394 +2460,394 @@ pdfTeX warning (ext4): destination with the same identifier (name{IP}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.549 	\acro{IP}{Internet Protocol}
+l.550 	\acro{IP}{Internet Protocol}
                                    
 
 LaTeX Warning: Hyper reference `acro:IP' on page viii undefined on input line 5
-49.
+50.
 
 
 LaTeX Warning: Hyper reference `acro:IP' on page viii undefined on input line 5
-49.
+50.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{JSON}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.550 	\acro{JSON}{JavaScript Object Notation}
+l.551 	\acro{JSON}{JavaScript Object Notation}
                                               
 
 LaTeX Warning: Hyper reference `acro:JSON' on page viii undefined on input line
- 550.
+ 551.
 
 
 LaTeX Warning: Hyper reference `acro:JSON' on page viii undefined on input line
- 550.
+ 551.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{JWT}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.551 	\acro{JWT}{JSON Web Token}
+l.552 	\acro{JWT}{JSON Web Token}
                                  
 
 LaTeX Warning: Hyper reference `acro:JWT' on page viii undefined on input line 
-551.
+552.
 
 
 LaTeX Warning: Hyper reference `acro:JWT' on page viii undefined on input line 
-551.
+552.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{KLOC}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.552 	\acro{KLOC}{Kilo Lines of Code}
+l.553 	\acro{KLOC}{Kilo Lines of Code}
                                       
 
 LaTeX Warning: Hyper reference `acro:KLOC' on page viii undefined on input line
- 552.
+ 553.
 
 
 LaTeX Warning: Hyper reference `acro:KLOC' on page viii undefined on input line
- 552.
+ 553.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{KNN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.553 	\acro{KNN}{K-Nearest Neighbors}
+l.554 	\acro{KNN}{K-Nearest Neighbors}
                                       
 
 LaTeX Warning: Hyper reference `acro:KNN' on page viii undefined on input line 
-553.
+554.
 
 
 LaTeX Warning: Hyper reference `acro:KNN' on page viii undefined on input line 
-553.
+554.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{LAN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.554 	\acro{LAN}{Local Area Network}
+l.555 	\acro{LAN}{Local Area Network}
                                      
 
 LaTeX Warning: Hyper reference `acro:LAN' on page viii undefined on input line 
-554.
+555.
 
 
 LaTeX Warning: Hyper reference `acro:LAN' on page viii undefined on input line 
-554.
+555.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{LSTM}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.555 	\acro{LSTM}{Long Short-Term Memory}
+l.556 	\acro{LSTM}{Long Short-Term Memory}
                                           
 
 LaTeX Warning: Hyper reference `acro:LSTM' on page viii undefined on input line
- 555.
+ 556.
 
 
 LaTeX Warning: Hyper reference `acro:LSTM' on page viii undefined on input line
- 555.
+ 556.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{MAC}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.556 	\acro{MAC}{Media Access Control}
+l.557 	\acro{MAC}{Media Access Control}
                                        
 
 LaTeX Warning: Hyper reference `acro:MAC' on page viii undefined on input line 
-556.
+557.
 
 
 LaTeX Warning: Hyper reference `acro:MAC' on page viii undefined on input line 
-556.
+557.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{MDLC}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.557 	\acro{MDLC}{Model Development Life Cycle}
+l.558 	\acro{MDLC}{Model Development Life Cycle}
                                                 
 
 LaTeX Warning: Hyper reference `acro:MDLC' on page viii undefined on input line
- 557.
+ 558.
 
 
 LaTeX Warning: Hyper reference `acro:MDLC' on page viii undefined on input line
- 557.
+ 558.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ML}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.558 	\acro{ML}{Machine Learning}
+l.559 	\acro{ML}{Machine Learning}
                                   
 
 LaTeX Warning: Hyper reference `acro:ML' on page viii undefined on input line 5
-58.
+59.
 
 
 LaTeX Warning: Hyper reference `acro:ML' on page viii undefined on input line 5
-58.
+59.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{MQTT}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.559 ...QTT}{Message Queuing Telemetry Transport}
+l.560 ...QTT}{Message Queuing Telemetry Transport}
                                                   
 
 LaTeX Warning: Hyper reference `acro:MQTT' on page viii undefined on input line
- 559.
+ 560.
 
 
 LaTeX Warning: Hyper reference `acro:MQTT' on page viii undefined on input line
- 559.
+ 560.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{NFR}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.560 	\acro{NFR}{Non-Functional Requirement}
+l.561 	\acro{NFR}{Non-Functional Requirement}
                                              
 
 LaTeX Warning: Hyper reference `acro:NFR' on page viii undefined on input line 
-560.
+561.
 
 
 LaTeX Warning: Hyper reference `acro:NFR' on page viii undefined on input line 
-560.
+561.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{NLP}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.561 	\acro{NLP}{Natural Language Processing}
+l.562 	\acro{NLP}{Natural Language Processing}
                                               
 
 LaTeX Warning: Hyper reference `acro:NLP' on page viii undefined on input line 
-561.
+562.
 
 
 LaTeX Warning: Hyper reference `acro:NLP' on page viii undefined on input line 
-561.
+562.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{NVRAM}) has b
 een already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.562 ...NVRAM}{Non-Volatile Random Access Memory}
+l.563 ...NVRAM}{Non-Volatile Random Access Memory}
                                                   
 
 LaTeX Warning: Hyper reference `acro:NVRAM' on page viii undefined on input lin
-e 562.
+e 563.
 
 
 LaTeX Warning: Hyper reference `acro:NVRAM' on page viii undefined on input lin
-e 562.
+e 563.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{OTA}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.563 	\acro{OTA}{Over-The-Air}
+l.564 	\acro{OTA}{Over-The-Air}
                                
 
 LaTeX Warning: Hyper reference `acro:OTA' on page viii undefined on input line 
-563.
+564.
 
 
 LaTeX Warning: Hyper reference `acro:OTA' on page viii undefined on input line 
-563.
+564.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{QEMU}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.564 	\acro{QEMU}{Quick Emulator}
+l.565 	\acro{QEMU}{Quick Emulator}
                                   
 
 LaTeX Warning: Hyper reference `acro:QEMU' on page viii undefined on input line
- 564.
+ 565.
 
 
 LaTeX Warning: Hyper reference `acro:QEMU' on page viii undefined on input line
- 564.
+ 565.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{RAM}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.565 	\acro{RAM}{Random Access Memory}
+l.566 	\acro{RAM}{Random Access Memory}
                                        
 
 LaTeX Warning: Hyper reference `acro:RAM' on page viii undefined on input line 
-565.
+566.
 
 
 LaTeX Warning: Hyper reference `acro:RAM' on page viii undefined on input line 
-565.
+566.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ReLU}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.566 	\acro{ReLU}{Rectified Linear Unit}
+l.567 	\acro{ReLU}{Rectified Linear Unit}
                                          
 
 LaTeX Warning: Hyper reference `acro:ReLU' on page viii undefined on input line
- 566.
+ 567.
 
 
 LaTeX Warning: Hyper reference `acro:ReLU' on page viii undefined on input line
- 566.
+ 567.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{REST}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.567 ...ro{REST}{Representational State Transfer}
+l.568 ...ro{REST}{Representational State Transfer}
                                                   
 
 LaTeX Warning: Hyper reference `acro:REST' on page viii undefined on input line
- 567.
+ 568.
 
 
 LaTeX Warning: Hyper reference `acro:REST' on page viii undefined on input line
- 567.
+ 568.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{RNN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.568 	\acro{RNN}{Recurrent Neural Network}
+l.569 	\acro{RNN}{Recurrent Neural Network}
                                            
 
 LaTeX Warning: Hyper reference `acro:RNN' on page viii undefined on input line 
-568.
+569.
 
 
 LaTeX Warning: Hyper reference `acro:RNN' on page viii undefined on input line 
-568.
+569.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{ROC}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.569 ...o{ROC}{Receiver Operating Characteristic}
+l.570 ...o{ROC}{Receiver Operating Characteristic}
                                                   
 
 LaTeX Warning: Hyper reference `acro:ROC' on page viii undefined on input line 
-569.
+570.
 
 
 LaTeX Warning: Hyper reference `acro:ROC' on page viii undefined on input line 
-569.
+570.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{SDLC}) has be
 en already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.570 ...ro{SDLC}{Software Development Life Cycle}
+l.571 ...ro{SDLC}{Software Development Life Cycle}
                                                   
 
 LaTeX Warning: Hyper reference `acro:SDLC' on page viii undefined on input line
- 570.
+ 571.
 
 
 LaTeX Warning: Hyper reference `acro:SDLC' on page viii undefined on input line
- 570.
+ 571.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{SSH}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.571 	\acro{SSH}{Secure Shell}
+l.572 	\acro{SSH}{Secure Shell}
                                
 
 LaTeX Warning: Hyper reference `acro:SSH' on page viii undefined on input line 
-571.
+572.
 
 
 LaTeX Warning: Hyper reference `acro:SSH' on page viii undefined on input line 
-571.
+572.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{SSL}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.572 	\acro{SSL}{Secure Sockets Layer}
+l.573 	\acro{SSL}{Secure Sockets Layer}
                                        
 
 LaTeX Warning: Hyper reference `acro:SSL' on page viii undefined on input line 
-572.
+573.
 
 
 LaTeX Warning: Hyper reference `acro:SSL' on page viii undefined on input line 
-572.
+573.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{SVM}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.573 	\acro{SVM}{Support Vector Machine}
+l.574 	\acro{SVM}{Support Vector Machine}
                                          
 
 LaTeX Warning: Hyper reference `acro:SVM' on page viii undefined on input line 
-573.
+574.
 
 
 LaTeX Warning: Hyper reference `acro:SVM' on page viii undefined on input line 
-573.
+574.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{TCP}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.574 	\acro{TCP}{Transmission Control Protocol}
+l.575 	\acro{TCP}{Transmission Control Protocol}
                                                 
 
 LaTeX Warning: Hyper reference `acro:TCP' on page viii undefined on input line 
-574.
+575.
 
 
 LaTeX Warning: Hyper reference `acro:TCP' on page viii undefined on input line 
-574.
+575.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 575.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 576.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -2856,59 +2856,59 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 575.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 576.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.viii}) h
 as been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\acro{TLS}{Transport Layer Security}
+l.576 	\acro{TLS}{Transport Layer Security}
                                             [8]
 pdfTeX warning (ext4): destination with the same identifier (name{TLS}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.575 	\acro{TLS}{Transport Layer Security}
+l.576 	\acro{TLS}{Transport Layer Security}
                                            
 
 LaTeX Warning: Hyper reference `acro:TLS' on page ix undefined on input line 57
-5.
+6.
 
 
 LaTeX Warning: Hyper reference `acro:TLS' on page ix undefined on input line 57
-5.
+6.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{UDP}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.576 	\acro{UDP}{User Datagram Protocol}
+l.577 	\acro{UDP}{User Datagram Protocol}
                                          
 
 LaTeX Warning: Hyper reference `acro:UDP' on page ix undefined on input line 57
-6.
+7.
 
 
 LaTeX Warning: Hyper reference `acro:UDP' on page ix undefined on input line 57
-6.
+7.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{UI}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.577 	\acro{UI}{User Interface}
+l.578 	\acro{UI}{User Interface}
                                 
 
-LaTeX Warning: Hyper reference `acro:UI' on page ix undefined on input line 577
+LaTeX Warning: Hyper reference `acro:UI' on page ix undefined on input line 578
 .
 
 
-LaTeX Warning: Hyper reference `acro:UI' on page ix undefined on input line 577
+LaTeX Warning: Hyper reference `acro:UI' on page ix undefined on input line 578
 .
 
 
@@ -2916,44 +2916,44 @@ pdfTeX warning (ext4): destination with the same identifier (name{UML}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.578 	\acro{UML}{Unified Modeling Language}
+l.579 	\acro{UML}{Unified Modeling Language}
                                             
 
 LaTeX Warning: Hyper reference `acro:UML' on page ix undefined on input line 57
-8.
+9.
 
 
 LaTeX Warning: Hyper reference `acro:UML' on page ix undefined on input line 57
-8.
+9.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{URL}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.579 	\acro{URL}{Uniform Resource Locator}
+l.580 	\acro{URL}{Uniform Resource Locator}
                                            
 
-LaTeX Warning: Hyper reference `acro:URL' on page ix undefined on input line 57
-9.
+LaTeX Warning: Hyper reference `acro:URL' on page ix undefined on input line 58
+0.
 
 
-LaTeX Warning: Hyper reference `acro:URL' on page ix undefined on input line 57
-9.
+LaTeX Warning: Hyper reference `acro:URL' on page ix undefined on input line 58
+0.
 
 
 pdfTeX warning (ext4): destination with the same identifier (name{VM}) has been
  already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.580 	\acro{VM}{Virtual Machine}
+l.581 	\acro{VM}{Virtual Machine}
                                  
 
-LaTeX Warning: Hyper reference `acro:VM' on page ix undefined on input line 580
+LaTeX Warning: Hyper reference `acro:VM' on page ix undefined on input line 581
 .
 
 
-LaTeX Warning: Hyper reference `acro:VM' on page ix undefined on input line 580
+LaTeX Warning: Hyper reference `acro:VM' on page ix undefined on input line 581
 .
 
 
@@ -2961,19 +2961,19 @@ pdfTeX warning (ext4): destination with the same identifier (name{VPN}) has bee
 n already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.581 	\acro{VPN}{Virtual Private Network}
+l.582 	\acro{VPN}{Virtual Private Network}
                                           
 
 LaTeX Warning: Hyper reference `acro:VPN' on page ix undefined on input line 58
-1.
+2.
 
 
 LaTeX Warning: Hyper reference `acro:VPN' on page ix undefined on input line 58
-1.
+2.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 585.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 586.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -2982,21 +2982,21 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 585.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 586.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.ix}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.585 \cleardoublepage
+l.586 \cleardoublepage
                        % Start main content on an odd page [9]
 Chapter 2.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 600.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 601.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3010,14 +3010,14 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.600 
+l.601 
        [1
 
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 615.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 616.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3032,11 +3032,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.615 \subsection{Fragmentation Problems}
+l.616 \subsection{Fragmentation Problems}
                                           [2]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 629.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 630.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3051,11 +3051,11 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.629 \section{Objectives}
+l.630 \section{Objectives}
                            [3]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 644.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 645.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3065,20 +3065,20 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 644.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 645.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.644 
+l.645 
        [4]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 658.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 659.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3088,14 +3088,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 658.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 659.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [5]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 677.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 678.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3105,14 +3105,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 677.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 678.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [6]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 677.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 678.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3122,15 +3122,15 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 677.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 678.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [7]
 Chapter 3.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 690.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 691.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3139,16 +3139,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 690.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 691.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [8
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 702.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 703.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3158,19 +3158,19 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 702.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 703.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [9]
-Overfull \hbox (9.17854pt too wide) in paragraph at lines 705--706
+Overfull \hbox (9.17854pt too wide) in paragraph at lines 706--707
 []\T1/ntxtlf/m/n/12 Hybrid ar-chi-tec-tures com-bin-ing mul-ti-ple net-work typ
 es lever-age com-ple-men-tary strengths.
  []
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 712.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 713.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3179,14 +3179,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 712.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 713.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [10]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 715.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 716.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3196,15 +3196,15 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 715.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 716.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [11]
 Chapter 4.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 730.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 731.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3213,16 +3213,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 730.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 731.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [12
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 742.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 743.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3232,14 +3232,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 742.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 743.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [13]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 754.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 755.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3249,14 +3249,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 754.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 755.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [14]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 768.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 769.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3266,14 +3266,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 768.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 769.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [15]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 780.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 781.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3283,14 +3283,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 780.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 781.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [16]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 794.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 795.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3300,14 +3300,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 794.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 795.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [17]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 804.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 805.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3317,14 +3317,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 804.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 805.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [18]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 814.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 815.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3334,14 +3334,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 814.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 815.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [19]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 828.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 829.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3351,14 +3351,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 828.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 829.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [20]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 838.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 839.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3368,14 +3368,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 838.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 839.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [21]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 852.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 853.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3385,14 +3385,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 852.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 853.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [22]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 866.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 867.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3402,14 +3402,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 866.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 867.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [23]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 874.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 875.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3419,14 +3419,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 874.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 875.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [24]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 886.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 887.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3436,14 +3436,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 886.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 887.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [25{c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 902.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 903.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3453,14 +3453,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 902.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 903.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [26]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 916.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 917.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3470,14 +3470,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 916.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 917.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [27]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 921.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 922.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3487,15 +3487,15 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 921.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 922.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [28]
 Chapter 5.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 932.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 933.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3504,16 +3504,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 932.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 933.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [29
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 940.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 941.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3523,14 +3523,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 940.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 941.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [30]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 950.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 951.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3540,14 +3540,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 950.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 951.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [31]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 962.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 963.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3557,14 +3557,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 962.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 963.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [32]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 972.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 973.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3574,14 +3574,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 972.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 973.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [33]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 980.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 981.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3591,14 +3591,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 980.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 981.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [34]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 985.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 986.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3608,22 +3608,22 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 985.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 986.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [35]
 Chapter 6.
 LaTeX Font Info:    Trying to load font information for TS1+ntxtlf on input lin
-e 997.
+e 998.
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/ts1ntxtlf.fd
 File: ts1ntxtlf.fd 2015/01/18 v1.0 fd file for TS1/ntxtlf
 )
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
-(Font)              scaled to size 12.0pt on input line 997.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1005.
+(Font)              scaled to size 12.0pt on input line 998.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1006.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3633,16 +3633,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1005.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1006.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [36
 
 {c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc}]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1028.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1029.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3652,14 +3652,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1028.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1029.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [37]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1049.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1050.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3669,14 +3669,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1049.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1050.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [38]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1073.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1074.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3686,15 +3686,15 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1073.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1074.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [39]
 Chapter 7.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1096.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1097.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3703,16 +3703,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1096.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1097.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [40
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1122.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1123.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3722,14 +3722,14 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1122.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1123.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [41]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1128.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1129.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3739,15 +3739,15 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1128.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1129.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [42]
 Chapter 8.
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1139.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1140.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3756,16 +3756,16 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1139.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1140.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [43
 
 ]
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1145.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1146.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3775,22 +3775,22 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1145.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1146.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [44]
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 12.0pt on input line 1148.
+(Font)              scaled to size 12.0pt on input line 1149.
 
-Underfull \hbox (badness 10000) in paragraph at lines 1166--1167
+Underfull \hbox (badness 10000) in paragraph at lines 1167--1168
 []\T1/ntxtlf/m/n/12 Stratosphere Lab-o-ra-tory. (2020). IoT-23 Dataset. Avail-a
 ble at:
  []
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1175.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1176.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 Package fancyhdr Warning: \headheight is too small (45.0pt): 
@@ -3799,9 +3799,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1175.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1176.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [45
 
@@ -3811,31 +3811,31 @@ Appendix A.
 File: lstlang1.sty 2025/11/14 1.11b listings language file
 )
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-1179.
+1180.
 
 (c:/texlive/2025/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 12.0pt on input line 1179.
+(Font)              scaled to size 12.0pt on input line 1180.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 1179.
-LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.95pt on input line 1180.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.0pt on input line 1180.
+(Font)              scaled to size 10.95pt on input line 1181.
+LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
+(Font)              scaled to size 6.0pt on input line 1181.
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 1
-180.
+181.
 
 (c:/texlive/2025/texmf-dist/tex/latex/txfonts/t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/b/n' in size <10.95> not available
-(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 1180.
+(Font)              Font shape `T1/txtt/bx/n' tried instead on input line 1181.
 
-File: header.png Graphic file (type png)
-<use header.png>
-Package pdftex.def Info: header.png  used on input line 1202.
+File: images/header.png Graphic file (type png)
+<use images/header.png>
+Package pdftex.def Info: images/header.png  used on input line 1203.
 (pdftex.def)             Requested size: 155.33487pt x 42.67912pt.
 
 
@@ -3845,9 +3845,9 @@ Package fancyhdr Warning: \headheight is too small (45.0pt):
 (fancyhdr)                You might also make \topmargin smaller:
 (fancyhdr)                \addtolength{\topmargin}{-2.02916pt}.
 
-File: footer.png Graphic file (type png)
-<use footer.png>
-Package pdftex.def Info: footer.png  used on input line 1202.
+File: images/footer.png Graphic file (type png)
+<use images/footer.png>
+Package pdftex.def Info: images/footer.png  used on input line 1203.
 (pdftex.def)             Requested size: 597.50787pt x 24.08513pt.
 [46
 
@@ -3864,10 +3864,10 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: E9C983E9B7482DF873110772DEF34FA7;26066.
  ) 
 Here is how much of TeX's memory you used:
- 30276 strings out of 467533
- 525909 string characters out of 5423668
- 1239019 words of memory out of 5000000
- 58383 multiletter control sequences out of 15000+600000
+ 30282 strings out of 467533
+ 526192 string characters out of 5423668
+ 1239030 words of memory out of 5000000
+ 58389 multiletter control sequences out of 15000+600000
  683048 words of font info for 92 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,17n,117p,1782b,1594s stack positions out of 10000i,1000n,20000p,200000b,200000s

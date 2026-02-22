@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1771770317.26531 "c:/Users/munna/Documents/latex/main.tex" "main.pdf" "main" 1771770320.26059 0
-  "c:/Users/munna/Documents/latex/main.tex" 1771770312 145843 c262c739c2567d3bd28ab9ab03770bb4 ""
+["pdflatex"] 1771770682.22936 "c:/Users/munna/Documents/latex/main.tex" "main.pdf" "main" 1771770685.52766 0
+  "c:/Users/munna/Documents/latex/main.tex" 1771770677 145868 24db29dc05780743a9a88540f61caacb ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc" 1771759093 2914 fdbc4a54b9bc76f4551b5303f2737d33 ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc" 1771759093 2083 60e36f8eac802fcaf19eabe2633b406e ""
   "c:/texlive/2025/texmf-dist/fonts/enc/dvips/tex-gyre/q-ts1.enc" 1771760996 3124 3813fd4c981d99822890a2861b0d274c ""
@@ -212,15 +212,15 @@
   "c:/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1771762116 5587484 49bd08ff372a6985d7d70778694ddaac ""
   "c:/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1771762290 3636145 0942cd769c87f30b8670bd34d3a2db81 ""
   "c:/texlive/2025/texmf.cnf" 1771762099 713 e69b156964470283e0530f5060668171 ""
-  "footer.png" 1771739478 1637 5dee879f7338307f7e832a830f4fd17f ""
-  "header.png" 1771739478 90700 742fb0c38d5919bd33a4a36be59db3de ""
-  "main.aux" 1771770319 29805 fa547ac8047484341424f43da67fceb9 "pdflatex"
-  "main.lof" 1771770319 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
-  "main.lot" 1771770319 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
-  "main.out" 1771770319 26066 e9c983e9b7482df873110772def34fa7 "pdflatex"
-  "main.tex" 1771770312 145843 c262c739c2567d3bd28ab9ab03770bb4 ""
-  "main.toc" 1771770319 12399 81316b2b9429821b74a46f0ddd91774c "pdflatex"
-  "providence_logo_background.png" 1771739478 418006 6437c0267c5617bf1a7e072229eebda8 ""
+  "images/footer.png" 1771739478 1637 5dee879f7338307f7e832a830f4fd17f ""
+  "images/header.png" 1771739478 90700 742fb0c38d5919bd33a4a36be59db3de ""
+  "images/providence_logo_background.png" 1771739478 418006 6437c0267c5617bf1a7e072229eebda8 ""
+  "main.aux" 1771770684 29805 fa547ac8047484341424f43da67fceb9 "pdflatex"
+  "main.lof" 1771770684 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
+  "main.lot" 1771770684 180 4fcb58b8a35e71f8ad1873924b86ddc9 "pdflatex"
+  "main.out" 1771770684 26066 e9c983e9b7482df873110772def34fa7 "pdflatex"
+  "main.tex" 1771770677 145868 24db29dc05780743a9a88540f61caacb ""
+  "main.toc" 1771770684 12399 81316b2b9429821b74a46f0ddd91774c "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
