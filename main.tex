@@ -24,6 +24,7 @@
 \usepackage{longtable}
 \usepackage{array}
 \usepackage{lipsum} % For dummy text if needed, can be removed later
+\usepackage{xurl} % Allows arbitrary line breaks in URLs, fixing Underfull \hbox errors
 
 % Page setup
 \onehalfspacing
@@ -694,7 +695,7 @@ Research into deep learning for malware detection explored various architectures
 
 Recurrent Neural Networks process sequential data maintaining hidden states capturing temporal dependencies. For malware detection, RNNs analyze sequences of system calls, API calls, or network packets. Long Short-Term Memory variants address vanishing gradient problems enabling learning of long-range dependencies. Al Abbas et al.~\cite{abbas2023} applied RNNs with NLP techniques to IoT malware detection treating binary code as text sequences, achieving 99.3\% accuracy using word embeddings for assembly instructions and RNNs capturing execution flow patterns.
 
-Hybrid architectures combining multiple network types leverage complementary strengths. Jeyalakshmi \& Nallaperumal~\cite{jeyalakshmi2024} introduced HCAGAN-DBN combining GANs and DBNs. Their GAN generated synthetic training samples to address class imbalance while the DBN performed hierarchical feature learning, achieving 99.83\% accuracy. Cross-architecture malware detection addresses IoT's diverse processor architectures. Chaganti et al.~\cite{chaganti2022} developed architecture-agnostic feature extraction capturing semantic behaviors regardless of instruction set, achieving 100\% malware identification accuracy and 98\% family classification across architectures.
+Hybrid architectures combin multiple network types leverage complementary strengths. Jeyalakshmi \& Nallaperumal~\cite{jeyalakshmi2024} introduced HCAGAN-DBN combining GANs and DBNs. Their GAN generated synthetic training samples to address class imbalance while the DBN did hierarchical feature learning, achieving 99.83\% accuracy. Cross-architecture malware detection addresses IoT's diverse processor architectures. Chaganti et al.~\cite{chaganti2022} developed architecture-agnostic feature extraction capturing semantic behaviors regardless of instruction set, achieving 100\% malware identification accuracy and 98\% family classification across architectures.
 
 \section{Integrated Security Frameworks}
 
@@ -1155,7 +1156,7 @@ The development of FIRMAI represents significant advancement in IoT security add
 	Chaganti, R., Ravi, V., \& Pham, T. D. (2022). Cross-architecture deep learning based Android malware detection. \textit{Journal of Information Security and Applications}.
 	
 	\bibitem{stratosphere}
-	Stratosphere Laboratory. (2020). IoT-23 Dataset. Available at: https://www.stratosphereips.org/datasets-iot23
+	Stratosphere Laboratory. (2020). IoT-23 Dataset. Available at: \url{https://www.stratosphereips.org/datasets-iot23}
 	
 	\bibitem{nmap}
 	Lyon, G. F. (2009). \textit{Nmap Network Scanning: The Official Nmap Project Guide to Network Discovery and Security Scanning}. Insecure.
