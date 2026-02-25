@@ -16,6 +16,12 @@ LaTeX source for the project report on **FIRMAI** — an integrated AI-powered s
 ├── references.bib        # Bibliography (BibTeX)
 ├── compile.bat           # Build script (Windows)
 ├── assets/               # Images, logos, and graphics
+├── Preamble/             # Modular preamble configuration
+│   ├── packages.tex      # Package imports
+│   ├── fonts.tex         # Font configuration
+│   ├── pagestyle.tex     # Page geometry, headers, and footers
+│   ├── sectionoptions.tex# Chapter/section formatting
+│   └── macro.tex         # Code listings and hyperref setup
 ├── frontmatter/          # Title page, certificate, abstract, etc.
 │   ├── titlepage.tex
 │   ├── certificate.tex
