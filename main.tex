@@ -20,17 +20,20 @@
 
 % Table of Contents
 \cleardoublepage % Ensures ToC starts on an odd page, applying fancy style
+	\renewcommand{\contentsname}{TABLE OF CONTENTS}
 	\tableofcontents
 
 % List of Figures
 \cleardoublepage
+\renewcommand{\listfigurename}{LIST OF FIGURES}
 \listoffigures
-\addcontentsline{toc}{chapter}{List of Figures} % Add LoF to ToC
+\addcontentsline{toc}{chapter}{LIST OF FIGURES} % Add LoF to ToC
 
 % List of Tables
 \cleardoublepage
+\renewcommand{\listtablename}{LIST OF TABLES}
 \listoftables
-\addcontentsline{toc}{chapter}{List of Tables} % Add LoT to ToC
+\addcontentsline{toc}{chapter}{LIST OF TABLES} % Add LoT to ToC
 
 % List of Abbreviations
 \cleardoublepage
