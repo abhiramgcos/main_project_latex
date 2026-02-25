@@ -1,0 +1,58 @@
+% Required packages (add if not already included)
+\usepackage{fancyhdr}
+\usepackage{graphicx}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{tikz}
+
+% Page geometry settings as per requirements
+\geometry{
+	a4paper,
+	top=35mm,         % Increased from 25mm to push content down
+	bottom=25mm,
+	left=30mm,
+	right=30mm
+}
+
+% Paragraph indentation
+\setlength{\parindent}{12.5mm}
+
+% Line spacing: 1.5 lines
+\onehalfspacing
+
+% Configure fancy header with watermark logo
+\pagestyle{fancy}
+\fancyhf{} % Clear all header and footer fields
+
+% Watermark logo in header (semi-transparent, top right)
+\fancyhead[R]{%
+	\raisebox{5mm}[0pt][0pt]{%
+		\hspace*{5mm}%
+		\tikz\node[opacity=0.3] {\includegraphics[height=1.5cm]{Figures/PRCUpperLogo}};%
+	}%
+}
+
+% Footer configuration (page numbers - bottom centered)
+\fancyfoot[C]{\thepage}
+
+% No header/footer lines
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust to prevent header from taking up space
+\setlength{\headheight}{0pt}
+\setlength{\headsep}{0pt}
+
+% Style for plain pages (chapter start pages)
+\fancypagestyle{plain}{
+	\fancyhf{}
+	\fancyhead[R]{%
+		\raisebox{5mm}[0pt][0pt]{%
+			\hspace*{5mm}%
+			\tikz\node[opacity=0.3] {\includegraphics[height=1.5cm]{Figures/PRCUpperLogo}};%
+		}%
+	}
+	\fancyfoot[C]{\thepage}
+	\renewcommand{\headrulewidth}{0pt}
+	\renewcommand{\footrulewidth}{0pt}
+}
