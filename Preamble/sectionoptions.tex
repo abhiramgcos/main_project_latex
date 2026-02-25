@@ -15,6 +15,9 @@
 {\Huge}
 \titlespacing*{name=\chapter, numberless}{0pt}{20pt}{40pt}
 
+% Enable dots (leaders) for chapters in the Table of Contents
+\renewcommand{\cftchapleader}{\cftdotfill{\cftdotsep}}
+
 % --- Section Formatting ---
 \titleformat{\section}
 {\normalfont\Large\bfseries}
