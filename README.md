@@ -15,6 +15,7 @@ LaTeX source for the project report on **FIRMAI** — an integrated AI-powered s
 ├── main.tex              # Main document entry point
 ├── references.bib        # Bibliography (BibTeX)
 ├── compile.bat           # Build script (Windows)
+├── compile.sh            # Build script (Linux/macOS)
 ├── assets/               # Images, logos, and graphics
 ├── Preamble/             # Modular preamble configuration
 │   ├── packages.tex      # Package imports
@@ -51,7 +52,13 @@ LaTeX source for the project report on **FIRMAI** — an integrated AI-powered s
 
 **Windows:**
 ```bat
-compile.bat
+.\compile.bat
+```
+
+**Linux/macOS:**
+```bash
+chmod +x compile.sh
+./compile.sh
 ```
 
 **Manual:**
