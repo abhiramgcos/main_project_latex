@@ -14,7 +14,7 @@
 \fancyhf{}
 \fancyhead[R]{%
 	\ifnum\value{page}>0
-	\includegraphics[height=1.5cm]{header.png}
+	\includegraphics[height=1.2cm]{header.png}\hspace*{-1.5cm}
 	\fi
 }
 % \fancyhead[L]{\leftmark} % Removed to avoid title repetition on top left
@@ -29,13 +29,14 @@
 }
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\setlength{\headheight}{48pt}
+\setlength{\headheight}{35pt}
+\setlength{\headsep}{15pt} % Reduces the empty space before the content
 
 % Apply fancy style to chapter pages as well
 \fancypagestyle{plain}{%
 	\fancyhead[R]{%
 		\ifnum\value{page}>0
-		\includegraphics[height=1.5cm]{header.png}
+		\includegraphics[height=1.2cm]{header.png}\hspace*{-1.5cm}
 		\fi
 	}
 	\fancyfoot[C]{%
