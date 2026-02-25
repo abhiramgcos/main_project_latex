@@ -22,14 +22,14 @@
 	\parbox{\linewidth}{%
 		\centering
 		\thepage\\[5pt]
-		\ifnum\value{page}>3
+		\ifnum\value{page}>0
 		\makebox[0pt][c]{\includegraphics[width=\paperwidth]{footer.png}}
 		\fi
 	}%
 }
 \renewcommand{\headrulewidth}{0pt}
 \renewcommand{\footrulewidth}{0pt}
-\setlength{\headheight}{35pt}
+\setlength{\headheight}{39pt}
 \setlength{\headsep}{15pt} % Reduces the empty space before the content
 
 % Apply fancy style to chapter pages as well
@@ -43,10 +43,27 @@
 		\parbox{\linewidth}{%
 			\centering
 			\thepage\\[5pt]
-			\ifnum\value{page}>3
+			\ifnum\value{page}>0
 			\makebox[0pt][c]{\includegraphics[width=\paperwidth]{footer.png}}
 			\fi
 		}%
 	}
 	\renewcommand{\footrulewidth}{0pt} 
+}
+
+% New pagestyle for pages with background logo and no footer
+\fancypagestyle{bglogo}{%
+	\fancyhead[R]{%
+		\ifnum\value{page}>0
+		\includegraphics[height=1.2cm]{header.png}\hspace*{-1.5cm}
+		\fi
+	}
+	\fancyfoot[C]{%
+		\parbox{\linewidth}{%
+			\centering
+			\thepage\\[5pt]
+		}%
+	}
+	\renewcommand{\footrulewidth}{0pt}
+	\renewcommand{\headrulewidth}{0pt}
 }
